@@ -1,0 +1,8552 @@
+[
+  {
+    "standard_terms": {
+      "tw": "准予延訊",
+      "ch": "准予延讯",
+      "en": "leave to adjourn"
+    },
+    "query_variants": {
+      "tw_query": [
+        "准予延訊"
+      ],
+      "ch_query": [
+        "准予延讯"
+      ],
+      "en_query": [
+        "leave to adjourn",
+        "leave to adjourn"
+      ]
+    },
+    "raw_row": {
+      "tw": "准予延訊",
+      "ch": "准予延讯",
+      "en": "leave to adjourn"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "核證譯本",
+      "ch": "核证译本",
+      "en": "certified translation"
+    },
+    "query_variants": {
+      "tw_query": [
+        "核證譯本"
+      ],
+      "ch_query": [
+        "核证译本"
+      ],
+      "en_query": [
+        "certified translation",
+        "certified translation"
+      ]
+    },
+    "raw_row": {
+      "tw": "核證譯本",
+      "ch": "核证译本",
+      "en": "certified translation"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "以威脅促致他人作非法的性行為",
+      "ch": "以威胁促致他人作非法的性行为",
+      "en": "procurement by threats"
+    },
+    "query_variants": {
+      "tw_query": [
+        "以威脅促致他人作非法的性行為",
+        "以威脅促致他人作非法的性"
+      ],
+      "ch_query": [
+        "以威胁促致他人作非法的性行为",
+        "以威胁促致他人作非法的性"
+      ],
+      "en_query": [
+        "procurement by threats",
+        "procurement by threats",
+        "procurement by threat"
+      ]
+    },
+    "raw_row": {
+      "tw": "以威脅促致他人作非法的性行為",
+      "ch": "以威胁促致他人作非法的性行为",
+      "en": "procurement by threats"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "一般及特別信託",
+      "ch": "一般及特别信讬",
+      "en": "general and specific trust"
+    },
+    "query_variants": {
+      "tw_query": [
+        "一般及特別信託",
+        "一般及特別"
+      ],
+      "ch_query": [
+        "一般及特别信讬",
+        "一般及特别"
+      ],
+      "en_query": [
+        "general and specific trust",
+        "general and specific trust"
+      ]
+    },
+    "raw_row": {
+      "tw": "一般及特別信託",
+      "ch": "一般及特别信讬",
+      "en": "general and specific trust"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "罪行的……元素",
+      "ch": "罪行的……元素",
+      "en": "element of the offence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "罪行的……元素",
+        "罪行的……"
+      ],
+      "ch_query": [
+        "罪行的……元素",
+        "罪行的……"
+      ],
+      "en_query": [
+        "element of the offence",
+        "element of the offence"
+      ]
+    },
+    "raw_row": {
+      "tw": "罪行的……元素",
+      "ch": "罪行的……元素",
+      "en": "element of the offence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "互相矛盾的裁決",
+      "ch": "互相矛盾的裁决",
+      "en": "inconsistent verdicts"
+    },
+    "query_variants": {
+      "tw_query": [
+        "互相矛盾的裁決",
+        "互相矛盾的"
+      ],
+      "ch_query": [
+        "互相矛盾的裁决",
+        "互相矛盾的"
+      ],
+      "en_query": [
+        "inconsistent verdicts",
+        "inconsistent verdicts",
+        "inconsistent verdict"
+      ]
+    },
+    "raw_row": {
+      "tw": "互相矛盾的裁決",
+      "ch": "互相矛盾的裁决",
+      "en": "inconsistent verdicts"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "控方結案",
+      "ch": "控方结案",
+      "en": "close of prosecution case"
+    },
+    "query_variants": {
+      "tw_query": [
+        "控方結案"
+      ],
+      "ch_query": [
+        "控方结案"
+      ],
+      "en_query": [
+        "close of prosecution case",
+        "close of prosecution case"
+      ]
+    },
+    "raw_row": {
+      "tw": "控方結案",
+      "ch": "控方结案",
+      "en": "close of prosecution case"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "承認事實通知書",
+      "ch": "承认事实通知书",
+      "en": "notice to admit facts"
+    },
+    "query_variants": {
+      "tw_query": [
+        "承認事實通知書",
+        "承認事實通"
+      ],
+      "ch_query": [
+        "承认事实通知书",
+        "承认事实通"
+      ],
+      "en_query": [
+        "notice to admit facts",
+        "notice to admit facts",
+        "notice to admit fact"
+      ]
+    },
+    "raw_row": {
+      "tw": "承認事實通知書",
+      "ch": "承认事实通知书",
+      "en": "notice to admit facts"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "串謀促致年齡在21歲以下的女童與人非法性交",
+      "ch": "串谋促致年龄在21岁以下的女童与人非法性交",
+      "en": "conspiracy to procure girls under 21 to have unlawful sexual intercourse"
+    },
+    "query_variants": {
+      "tw_query": [
+        "串謀促致年齡在21歲以下的女童與人非法性交",
+        "串謀促致年齡在21歲以下的女童與人非法"
+      ],
+      "ch_query": [
+        "串谋促致年龄在21岁以下的女童与人非法性交",
+        "串谋促致年龄在21岁以下的女童与人非法"
+      ],
+      "en_query": [
+        "conspiracy to procure girls under 21 to have unlawful sexual intercourse",
+        "conspiracy to procure girls under 21 to have unlawful sexual intercourse"
+      ]
+    },
+    "raw_row": {
+      "tw": "串謀促致年齡在21歲以下的女童與人非法性交",
+      "ch": "串谋促致年龄在21岁以下的女童与人非法性交",
+      "en": "conspiracy to procure girls under 21 to have unlawful sexual intercourse"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "刑案的舉證準則",
+      "ch": "刑案的举证准则",
+      "en": "criminal standard of proof"
+    },
+    "query_variants": {
+      "tw_query": [
+        "刑案的舉證準則",
+        "刑案的舉證"
+      ],
+      "ch_query": [
+        "刑案的举证准则",
+        "刑案的举证"
+      ],
+      "en_query": [
+        "criminal standard of proof",
+        "criminal standard of proof"
+      ]
+    },
+    "raw_row": {
+      "tw": "刑案的舉證準則",
+      "ch": "刑案的举证准则",
+      "en": "criminal standard of proof"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "豁除證據的剩餘酌情權",
+      "ch": "豁除证据的剩余酌情权",
+      "en": "residual discretion to exclude evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "豁除證據的剩餘酌情權",
+        "豁除證據的剩餘酌"
+      ],
+      "ch_query": [
+        "豁除证据的剩余酌情权",
+        "豁除证据的剩余酌"
+      ],
+      "en_query": [
+        "residual discretion to exclude evidence",
+        "residual discretion to exclude evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "豁除證據的剩餘酌情權",
+      "ch": "豁除证据的剩余酌情权",
+      "en": "residual discretion to exclude evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有效的判刑選擇",
+      "ch": "有效的判刑选择",
+      "en": "valid sentencing option"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有效的判刑選擇",
+        "有效的判刑"
+      ],
+      "ch_query": [
+        "有效的判刑选择",
+        "有效的判刑"
+      ],
+      "en_query": [
+        "valid sentencing option",
+        "valid sentencing option"
+      ]
+    },
+    "raw_row": {
+      "tw": "有效的判刑選擇",
+      "ch": "有效的判刑选择",
+      "en": "valid sentencing option"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "上訴屬當然權利",
+      "ch": "上诉属当然权利",
+      "en": "appeal as of right"
+    },
+    "query_variants": {
+      "tw_query": [
+        "上訴屬當然權利",
+        "上訴屬當然"
+      ],
+      "ch_query": [
+        "上诉属当然权利",
+        "上诉属当然"
+      ],
+      "en_query": [
+        "appeal as of right",
+        "appeal as of right"
+      ]
+    },
+    "raw_row": {
+      "tw": "上訴屬當然權利",
+      "ch": "上诉属当然权利",
+      "en": "appeal as of right"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "促成串謀",
+      "ch": "促成串谋",
+      "en": "in furtherance of the conspiracy"
+    },
+    "query_variants": {
+      "tw_query": [
+        "促成串謀"
+      ],
+      "ch_query": [
+        "促成串谋"
+      ],
+      "en_query": [
+        "in furtherance of the conspiracy",
+        "in furtherance of the conspiracy"
+      ]
+    },
+    "raw_row": {
+      "tw": "促成串謀",
+      "ch": "促成串谋",
+      "en": "in furtherance of the conspiracy"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "多項罪行的控罪",
+      "ch": "多项罪行的控罪",
+      "en": "duplicity of charge"
+    },
+    "query_variants": {
+      "tw_query": [
+        "多項罪行的控罪",
+        "多項罪行的"
+      ],
+      "ch_query": [
+        "多项罪行的控罪",
+        "多项罪行的"
+      ],
+      "en_query": [
+        "duplicity of charge",
+        "duplicity of charge"
+      ]
+    },
+    "raw_row": {
+      "tw": "多項罪行的控罪",
+      "ch": "多项罪行的控罪",
+      "en": "duplicity of charge"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "對訟式刑事司法體系",
+      "ch": "对讼式刑事司法体系",
+      "en": "adversarial system of criminal justice"
+    },
+    "query_variants": {
+      "tw_query": [
+        "對訟式刑事司法體系",
+        "對訟式刑事司法"
+      ],
+      "ch_query": [
+        "对讼式刑事司法体系",
+        "对讼式刑事司法"
+      ],
+      "en_query": [
+        "adversarial system of criminal justice",
+        "adversarial system of criminal justice"
+      ]
+    },
+    "raw_row": {
+      "tw": "對訟式刑事司法體系",
+      "ch": "对讼式刑事司法体系",
+      "en": "adversarial system of criminal justice"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "強而有力的證據",
+      "ch": "强而有力的证据",
+      "en": "cogent evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "強而有力的證據",
+        "強而有力的"
+      ],
+      "ch_query": [
+        "强而有力的证据",
+        "强而有力的"
+      ],
+      "en_query": [
+        "cogent evidence",
+        "cogent evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "強而有力的證據",
+      "ch": "强而有力的证据",
+      "en": "cogent evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "明顯的行為",
+      "ch": "明显的行为",
+      "en": "overt act"
+    },
+    "query_variants": {
+      "tw_query": [
+        "明顯的行為",
+        "明顯的行"
+      ],
+      "ch_query": [
+        "明显的行为",
+        "明显的行"
+      ],
+      "en_query": [
+        "overt act",
+        "overt act"
+      ]
+    },
+    "raw_row": {
+      "tw": "明顯的行為",
+      "ch": "明显的行为",
+      "en": "overt act"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "作為……不作為",
+      "ch": "作为……不作为",
+      "en": "acts ... omissions"
+    },
+    "query_variants": {
+      "tw_query": [
+        "作為……不作為",
+        "作為……不"
+      ],
+      "ch_query": [
+        "作为……不作为",
+        "作为……不"
+      ],
+      "en_query": [
+        "acts ... omissions",
+        "acts ... omissions",
+        "acts ... omission"
+      ]
+    },
+    "raw_row": {
+      "tw": "作為……不作為",
+      "ch": "作为……不作为",
+      "en": "acts ... omissions"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "對訟式審訊",
+      "ch": "对讼式审讯",
+      "en": "adversarial trial"
+    },
+    "query_variants": {
+      "tw_query": [
+        "對訟式審訊",
+        "對訟式審"
+      ],
+      "ch_query": [
+        "对讼式审讯",
+        "对讼式审"
+      ],
+      "en_query": [
+        "adversarial trial",
+        "adversarial trial"
+      ]
+    },
+    "raw_row": {
+      "tw": "對訟式審訊",
+      "ch": "对讼式审讯",
+      "en": "adversarial trial"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "公正無私的旁觀者",
+      "ch": "公正无私的旁观者",
+      "en": "impartial observer"
+    },
+    "query_variants": {
+      "tw_query": [
+        "公正無私的旁觀者",
+        "公正無私的旁"
+      ],
+      "ch_query": [
+        "公正无私的旁观者",
+        "公正无私的旁"
+      ],
+      "en_query": [
+        "impartial observer",
+        "impartial observer"
+      ]
+    },
+    "raw_row": {
+      "tw": "公正無私的旁觀者",
+      "ch": "公正无私的旁观者",
+      "en": "impartial observer"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不服命令的上訴",
+      "ch": "不服命令的上诉",
+      "en": "appeal against ... order"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不服命令的上訴",
+        "不服命令的"
+      ],
+      "ch_query": [
+        "不服命令的上诉",
+        "不服命令的"
+      ],
+      "en_query": [
+        "appeal against ... order",
+        "appeal against ... order"
+      ]
+    },
+    "raw_row": {
+      "tw": "不服命令的上訴",
+      "ch": "不服命令的上诉",
+      "en": "appeal against ... order"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "知悉犯罪的推論",
+      "ch": "知悉犯罪的推论",
+      "en": "inference of guilty knowledge"
+    },
+    "query_variants": {
+      "tw_query": [
+        "知悉犯罪的推論",
+        "知悉犯罪的"
+      ],
+      "ch_query": [
+        "知悉犯罪的推论",
+        "知悉犯罪的"
+      ],
+      "en_query": [
+        "inference of guilty knowledge",
+        "inference of guilty knowledge"
+      ]
+    },
+    "raw_row": {
+      "tw": "知悉犯罪的推論",
+      "ch": "知悉犯罪的推论",
+      "en": "inference of guilty knowledge"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "以不在犯罪現場為辯護理由",
+      "ch": "以不在犯罪现场为辩护理由",
+      "en": "defence of alibi"
+    },
+    "query_variants": {
+      "tw_query": [
+        "以不在犯罪現場為辯護理由",
+        "以不在犯罪現場為辯護"
+      ],
+      "ch_query": [
+        "以不在犯罪现场为辩护理由",
+        "以不在犯罪现场为辩护"
+      ],
+      "en_query": [
+        "defence of alibi",
+        "defence of alibi"
+      ]
+    },
+    "raw_row": {
+      "tw": "以不在犯罪現場為辯護理由",
+      "ch": "以不在犯罪现场为辩护理由",
+      "en": "defence of alibi"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "向證人提出……問題",
+      "ch": "向证人提出……问题",
+      "en": "put ... questions to the witness"
+    },
+    "query_variants": {
+      "tw_query": [
+        "向證人提出……問題",
+        "向證人提出……"
+      ],
+      "ch_query": [
+        "向证人提出……问题",
+        "向证人提出……"
+      ],
+      "en_query": [
+        "put ... questions to the witness",
+        "put ... questions to the witness",
+        "put ... questions to the witnes"
+      ]
+    },
+    "raw_row": {
+      "tw": "向證人提出……問題",
+      "ch": "向证人提出……问题",
+      "en": "put ... questions to the witness"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "證明案件無合理疑點",
+      "ch": "证明案件无合理疑点",
+      "en": "prove a case beyond reasonable doubt"
+    },
+    "query_variants": {
+      "tw_query": [
+        "證明案件無合理疑點",
+        "證明案件無合理"
+      ],
+      "ch_query": [
+        "证明案件无合理疑点",
+        "证明案件无合理"
+      ],
+      "en_query": [
+        "prove a case beyond reasonable doubt",
+        "prove a case beyond reasonable doubt"
+      ]
+    },
+    "raw_row": {
+      "tw": "證明案件無合理疑點",
+      "ch": "证明案件无合理疑点",
+      "en": "prove a case beyond reasonable doubt"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "清白理由",
+      "ch": "清白理由",
+      "en": "innocent reason"
+    },
+    "query_variants": {
+      "tw_query": [
+        "清白理由"
+      ],
+      "ch_query": [
+        "清白理由"
+      ],
+      "en_query": [
+        "innocent reason",
+        "innocent reason"
+      ]
+    },
+    "raw_row": {
+      "tw": "清白理由",
+      "ch": "清白理由",
+      "en": "innocent reason"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "屬宣布性質的濟助",
+      "ch": "属宣布性质的济助",
+      "en": "declaratory relief"
+    },
+    "query_variants": {
+      "tw_query": [
+        "屬宣布性質的濟助",
+        "屬宣布性質的"
+      ],
+      "ch_query": [
+        "属宣布性质的济助",
+        "属宣布性质的"
+      ],
+      "en_query": [
+        "declaratory relief",
+        "declaratory relief"
+      ]
+    },
+    "raw_row": {
+      "tw": "屬宣布性質的濟助",
+      "ch": "属宣布性质的济助",
+      "en": "declaratory relief"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "互相矛盾的裁決",
+      "ch": "互相矛盾的裁决",
+      "en": "inconsistent verdicts"
+    },
+    "query_variants": {
+      "tw_query": [
+        "互相矛盾的裁決",
+        "互相矛盾的"
+      ],
+      "ch_query": [
+        "互相矛盾的裁决",
+        "互相矛盾的"
+      ],
+      "en_query": [
+        "inconsistent verdicts",
+        "inconsistent verdicts",
+        "inconsistent verdict"
+      ]
+    },
+    "raw_row": {
+      "tw": "互相矛盾的裁決",
+      "ch": "互相矛盾的裁决",
+      "en": "inconsistent verdicts"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "整體罪行嚴重性",
+      "ch": "整体罪行严重性",
+      "en": "total criminality of offence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "整體罪行嚴重性",
+        "整體罪行嚴"
+      ],
+      "ch_query": [
+        "整体罪行严重性",
+        "整体罪行严"
+      ],
+      "en_query": [
+        "total criminality of offence",
+        "total criminality of offence"
+      ]
+    },
+    "raw_row": {
+      "tw": "整體罪行嚴重性",
+      "ch": "整体罪行严重性",
+      "en": "total criminality of offence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "證人記憶",
+      "ch": "证人记忆",
+      "en": "recollection of witness"
+    },
+    "query_variants": {
+      "tw_query": [
+        "證人記憶"
+      ],
+      "ch_query": [
+        "证人记忆"
+      ],
+      "en_query": [
+        "recollection of witness",
+        "recollection of witness",
+        "recollection of witnes"
+      ]
+    },
+    "raw_row": {
+      "tw": "證人記憶",
+      "ch": "证人记忆",
+      "en": "recollection of witness"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "針對……命令提出上訴",
+      "ch": "针对……命令提出上诉",
+      "en": "appeal against ... order"
+    },
+    "query_variants": {
+      "tw_query": [
+        "針對……命令提出上訴",
+        "針對……命令提出"
+      ],
+      "ch_query": [
+        "针对……命令提出上诉",
+        "针对……命令提出"
+      ],
+      "en_query": [
+        "appeal against ... order",
+        "appeal against ... order"
+      ]
+    },
+    "raw_row": {
+      "tw": "針對……命令提出上訴",
+      "ch": "针对……命令提出上诉",
+      "en": "appeal against ... order"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "令其即時釋放的刑期",
+      "ch": "令其即时释放的刑期",
+      "en": "sentence that allowed immediate release"
+    },
+    "query_variants": {
+      "tw_query": [
+        "令其即時釋放的刑期",
+        "令其即時釋放的"
+      ],
+      "ch_query": [
+        "令其即时释放的刑期",
+        "令其即时释放的"
+      ],
+      "en_query": [
+        "sentence that allowed immediate release",
+        "sentence that allowed immediate release"
+      ]
+    },
+    "raw_row": {
+      "tw": "令其即時釋放的刑期",
+      "ch": "令其即时释放的刑期",
+      "en": "sentence that allowed immediate release"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "保留法律問題待上訴法庭考慮",
+      "ch": "保留法律问题待上诉法庭考虑",
+      "en": "reserve question of law for consideration of Court of Appeal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "保留法律問題待上訴法庭考慮",
+        "保留法律問題待上訴法庭"
+      ],
+      "ch_query": [
+        "保留法律问题待上诉法庭考虑",
+        "保留法律问题待上诉法庭"
+      ],
+      "en_query": [
+        "reserve question of law for consideration of Court of Appeal",
+        "reserve question of law for consideration of court of appeal"
+      ]
+    },
+    "raw_row": {
+      "tw": "保留法律問題待上訴法庭考慮",
+      "ch": "保留法律问题待上诉法庭考虑",
+      "en": "reserve question of law for consideration of Court of Appeal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "量刑程序",
+      "ch": "量刑程序",
+      "en": "sentencing procedure"
+    },
+    "query_variants": {
+      "tw_query": [
+        "量刑程序"
+      ],
+      "ch_query": [
+        "量刑程序"
+      ],
+      "en_query": [
+        "sentencing procedure",
+        "sentencing procedure"
+      ]
+    },
+    "raw_row": {
+      "tw": "量刑程序",
+      "ch": "量刑程序",
+      "en": "sentencing procedure"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "過渡性的條文",
+      "ch": "过渡性的条文",
+      "en": "transitional provision"
+    },
+    "query_variants": {
+      "tw_query": [
+        "過渡性的條文",
+        "過渡性的"
+      ],
+      "ch_query": [
+        "过渡性的条文",
+        "过渡性的"
+      ],
+      "en_query": [
+        "transitional provision",
+        "transitional provision"
+      ]
+    },
+    "raw_row": {
+      "tw": "過渡性的條文",
+      "ch": "过渡性的条文",
+      "en": "transitional provision"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "和疑犯一起供辨認的人",
+      "ch": "和疑犯一起供辨认的人",
+      "en": "actor in identification parade"
+    },
+    "query_variants": {
+      "tw_query": [
+        "和疑犯一起供辨認的人",
+        "和疑犯一起供辨認"
+      ],
+      "ch_query": [
+        "和疑犯一起供辨认的人",
+        "和疑犯一起供辨认"
+      ],
+      "en_query": [
+        "actor in identification parade",
+        "actor in identification parade"
+      ]
+    },
+    "raw_row": {
+      "tw": "和疑犯一起供辨認的人",
+      "ch": "和疑犯一起供辨认的人",
+      "en": "actor in identification parade"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "司機的謹慎和審慎程度",
+      "ch": "司机的谨慎和审慎程度",
+      "en": "care and prudence of driver"
+    },
+    "query_variants": {
+      "tw_query": [
+        "司機的謹慎和審慎程度",
+        "司機的謹慎和審慎"
+      ],
+      "ch_query": [
+        "司机的谨慎和审慎程度",
+        "司机的谨慎和审慎"
+      ],
+      "en_query": [
+        "care and prudence of driver",
+        "care and prudence of driver"
+      ]
+    },
+    "raw_row": {
+      "tw": "司機的謹慎和審慎程度",
+      "ch": "司机的谨慎和审慎程度",
+      "en": "care and prudence of driver"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "實際風險",
+      "ch": "实际风险",
+      "en": "real risk"
+    },
+    "query_variants": {
+      "tw_query": [
+        "實際風險"
+      ],
+      "ch_query": [
+        "实际风险"
+      ],
+      "en_query": [
+        "real risk",
+        "real risk"
+      ]
+    },
+    "raw_row": {
+      "tw": "實際風險",
+      "ch": "实际风险",
+      "en": "real risk"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "傳喚他人作證",
+      "ch": "传唤他人作证",
+      "en": "call and give evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "傳喚他人作證",
+        "傳喚他人"
+      ],
+      "ch_query": [
+        "传唤他人作证",
+        "传唤他人"
+      ],
+      "en_query": [
+        "call and give evidence",
+        "call and give evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "傳喚他人作證",
+      "ch": "传唤他人作证",
+      "en": "call and give evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "單獨管有或共同管有",
+      "ch": "单独管有或共同管有",
+      "en": "exclusive possession or joint possession"
+    },
+    "query_variants": {
+      "tw_query": [
+        "單獨管有或共同管有",
+        "單獨管有或共同"
+      ],
+      "ch_query": [
+        "单独管有或共同管有",
+        "单独管有或共同"
+      ],
+      "en_query": [
+        "exclusive possession or joint possession",
+        "exclusive possession or joint possession"
+      ]
+    },
+    "raw_row": {
+      "tw": "單獨管有或共同管有",
+      "ch": "单独管有或共同管有",
+      "en": "exclusive possession or joint possession"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "介入者",
+      "ch": "介入者",
+      "en": "intervener"
+    },
+    "query_variants": {
+      "tw_query": [
+        "介入者"
+      ],
+      "ch_query": [
+        "介入者"
+      ],
+      "en_query": [
+        "intervener",
+        "intervener"
+      ]
+    },
+    "raw_row": {
+      "tw": "介入者",
+      "ch": "介入者",
+      "en": "intervener"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "法定推定",
+      "ch": "法定推定",
+      "en": "statutory presumption"
+    },
+    "query_variants": {
+      "tw_query": [
+        "法定推定"
+      ],
+      "ch_query": [
+        "法定推定"
+      ],
+      "en_query": [
+        "statutory presumption",
+        "statutory presumption"
+      ]
+    },
+    "raw_row": {
+      "tw": "法定推定",
+      "ch": "法定推定",
+      "en": "statutory presumption"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "針對定罪的上訴",
+      "ch": "针对定罪的上诉",
+      "en": "appeal against conviction"
+    },
+    "query_variants": {
+      "tw_query": [
+        "針對定罪的上訴",
+        "針對定罪的"
+      ],
+      "ch_query": [
+        "针对定罪的上诉",
+        "针对定罪的"
+      ],
+      "en_query": [
+        "appeal against conviction",
+        "appeal against conviction"
+      ]
+    },
+    "raw_row": {
+      "tw": "針對定罪的上訴",
+      "ch": "针对定罪的上诉",
+      "en": "appeal against conviction"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "辯方理由",
+      "ch": "辩方理由",
+      "en": "defence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "辯方理由"
+      ],
+      "ch_query": [
+        "辩方理由"
+      ],
+      "en_query": [
+        "defence",
+        "defence"
+      ]
+    },
+    "raw_row": {
+      "tw": "辯方理由",
+      "ch": "辩方理由",
+      "en": "defence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "自簽守行為",
+      "ch": "自签守行为",
+      "en": "bind over to keep the peace ... his own recognizances"
+    },
+    "query_variants": {
+      "tw_query": [
+        "自簽守行為",
+        "自簽守行"
+      ],
+      "ch_query": [
+        "自签守行为",
+        "自签守行"
+      ],
+      "en_query": [
+        "bind over to keep the peace ... his own recognizances",
+        "bind over to keep the peace ... his own recognizances",
+        "bind over to keep the peace ... his own recognizance"
+      ]
+    },
+    "raw_row": {
+      "tw": "自簽守行為",
+      "ch": "自签守行为",
+      "en": "bind over to keep the peace ... his own recognizances"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "自願供認",
+      "ch": "自愿供认",
+      "en": "voluntary confession"
+    },
+    "query_variants": {
+      "tw_query": [
+        "自願供認"
+      ],
+      "ch_query": [
+        "自愿供认"
+      ],
+      "en_query": [
+        "voluntary confession",
+        "voluntary confession"
+      ]
+    },
+    "raw_row": {
+      "tw": "自願供認",
+      "ch": "自愿供认",
+      "en": "voluntary confession"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "反駁的責任",
+      "ch": "反驳的责任",
+      "en": "burden of rebuttal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "反駁的責任",
+        "反駁的責"
+      ],
+      "ch_query": [
+        "反驳的责任",
+        "反驳的责"
+      ],
+      "en_query": [
+        "burden of rebuttal",
+        "burden of rebuttal"
+      ]
+    },
+    "raw_row": {
+      "tw": "反駁的責任",
+      "ch": "反驳的责任",
+      "en": "burden of rebuttal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "誠實可靠的證人",
+      "ch": "诚实可靠的证人",
+      "en": "truthful and reliable witness"
+    },
+    "query_variants": {
+      "tw_query": [
+        "誠實可靠的證人",
+        "誠實可靠的"
+      ],
+      "ch_query": [
+        "诚实可靠的证人",
+        "诚实可靠的"
+      ],
+      "en_query": [
+        "truthful and reliable witness",
+        "truthful and reliable witness",
+        "truthful and reliable witnes"
+      ]
+    },
+    "raw_row": {
+      "tw": "誠實可靠的證人",
+      "ch": "诚实可靠的证人",
+      "en": "truthful and reliable witness"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "執行緩刑",
+      "ch": "执行缓刑",
+      "en": "activate a suspended sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "執行緩刑"
+      ],
+      "ch_query": [
+        "执行缓刑"
+      ],
+      "en_query": [
+        "activate a suspended sentence",
+        "activate a suspended sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "執行緩刑",
+      "ch": "执行缓刑",
+      "en": "activate a suspended sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "以虛假藉口促致他人作非法的性行為",
+      "ch": "以虚假借口促致他人作非法的性行为",
+      "en": "procurement by false pretences"
+    },
+    "query_variants": {
+      "tw_query": [
+        "以虛假藉口促致他人作非法的性行為",
+        "以虛假藉口促致他人作非法的性"
+      ],
+      "ch_query": [
+        "以虚假借口促致他人作非法的性行为",
+        "以虚假借口促致他人作非法的性"
+      ],
+      "en_query": [
+        "procurement by false pretences",
+        "procurement by false pretences",
+        "procurement by false pretence"
+      ]
+    },
+    "raw_row": {
+      "tw": "以虛假藉口促致他人作非法的性行為",
+      "ch": "以虚假借口促致他人作非法的性行为",
+      "en": "procurement by false pretences"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "是客觀地合理的",
+      "ch": "是客观地合理的",
+      "en": "objectively reasonable"
+    },
+    "query_variants": {
+      "tw_query": [
+        "是客觀地合理的",
+        "是客觀地合"
+      ],
+      "ch_query": [
+        "是客观地合理的",
+        "是客观地合"
+      ],
+      "en_query": [
+        "objectively reasonable",
+        "objectively reasonable"
+      ]
+    },
+    "raw_row": {
+      "tw": "是客觀地合理的",
+      "ch": "是客观地合理的",
+      "en": "objectively reasonable"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "公正無私的旁觀者",
+      "ch": "公正无私的旁观者",
+      "en": "impartial observer"
+    },
+    "query_variants": {
+      "tw_query": [
+        "公正無私的旁觀者",
+        "公正無私的旁"
+      ],
+      "ch_query": [
+        "公正无私的旁观者",
+        "公正无私的旁"
+      ],
+      "en_query": [
+        "impartial observer",
+        "impartial observer"
+      ]
+    },
+    "raw_row": {
+      "tw": "公正無私的旁觀者",
+      "ch": "公正无私的旁观者",
+      "en": "impartial observer"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "進入住宅犯入屋犯法罪",
+      "ch": "进入住宅犯入屋犯法罪",
+      "en": "domestic burglary"
+    },
+    "query_variants": {
+      "tw_query": [
+        "進入住宅犯入屋犯法罪",
+        "進入住宅犯入屋犯"
+      ],
+      "ch_query": [
+        "进入住宅犯入屋犯法罪",
+        "进入住宅犯入屋犯"
+      ],
+      "en_query": [
+        "domestic burglary",
+        "domestic burglary"
+      ]
+    },
+    "raw_row": {
+      "tw": "進入住宅犯入屋犯法罪",
+      "ch": "进入住宅犯入屋犯法罪",
+      "en": "domestic burglary"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有理據的申請",
+      "ch": "有理据的申请",
+      "en": "meritorious application"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有理據的申請",
+        "有理據的"
+      ],
+      "ch_query": [
+        "有理据的申请",
+        "有理据的"
+      ],
+      "en_query": [
+        "meritorious application",
+        "meritorious application"
+      ]
+    },
+    "raw_row": {
+      "tw": "有理據的申請",
+      "ch": "有理据的申请",
+      "en": "meritorious application"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "串謀敗壞公眾道德",
+      "ch": "串谋败坏公众道德",
+      "en": "conspiracy to corrupt public morals"
+    },
+    "query_variants": {
+      "tw_query": [
+        "串謀敗壞公眾道德",
+        "串謀敗壞公眾"
+      ],
+      "ch_query": [
+        "串谋败坏公众道德",
+        "串谋败坏公众"
+      ],
+      "en_query": [
+        "conspiracy to corrupt public morals",
+        "conspiracy to corrupt public morals",
+        "conspiracy to corrupt public moral"
+      ]
+    },
+    "raw_row": {
+      "tw": "串謀敗壞公眾道德",
+      "ch": "串谋败坏公众道德",
+      "en": "conspiracy to corrupt public morals"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "酌情性終身監禁刑罰",
+      "ch": "酌情性终身监禁刑罚",
+      "en": "discretionary life sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "酌情性終身監禁刑罰",
+        "酌情性終身監禁"
+      ],
+      "ch_query": [
+        "酌情性终身监禁刑罚",
+        "酌情性终身监禁"
+      ],
+      "en_query": [
+        "discretionary life sentence",
+        "discretionary life sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "酌情性終身監禁刑罰",
+      "ch": "酌情性终身监禁刑罚",
+      "en": "discretionary life sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "單方面的聆訊",
+      "ch": "单方面的聆讯",
+      "en": "ex parte hearing"
+    },
+    "query_variants": {
+      "tw_query": [
+        "單方面的聆訊",
+        "單方面的"
+      ],
+      "ch_query": [
+        "单方面的聆讯",
+        "单方面的"
+      ],
+      "en_query": [
+        "ex parte hearing",
+        "ex parte hearing"
+      ]
+    },
+    "raw_row": {
+      "tw": "單方面的聆訊",
+      "ch": "单方面的聆讯",
+      "en": "ex parte hearing"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "法律推定",
+      "ch": "法律推定",
+      "en": "presumption of law"
+    },
+    "query_variants": {
+      "tw_query": [
+        "法律推定"
+      ],
+      "ch_query": [
+        "法律推定"
+      ],
+      "en_query": [
+        "presumption of law",
+        "presumption of law"
+      ]
+    },
+    "raw_row": {
+      "tw": "法律推定",
+      "ch": "法律推定",
+      "en": "presumption of law"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "主犯",
+      "ch": "主犯",
+      "en": "primary offender"
+    },
+    "query_variants": {
+      "tw_query": [
+        "主犯"
+      ],
+      "ch_query": [
+        "主犯"
+      ],
+      "en_query": [
+        "primary offender",
+        "primary offender"
+      ]
+    },
+    "raw_row": {
+      "tw": "主犯",
+      "ch": "主犯",
+      "en": "primary offender"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "接受教化",
+      "ch": "接受教化",
+      "en": "reformative treatment"
+    },
+    "query_variants": {
+      "tw_query": [
+        "接受教化"
+      ],
+      "ch_query": [
+        "接受教化"
+      ],
+      "en_query": [
+        "reformative treatment",
+        "reformative treatment"
+      ]
+    },
+    "raw_row": {
+      "tw": "接受教化",
+      "ch": "接受教化",
+      "en": "reformative treatment"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不誠實地意圖導致他人蒙受損失",
+      "ch": "不诚实地意图导致他人蒙受损失",
+      "en": "dishonest intent to cause loss to another"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不誠實地意圖導致他人蒙受損失",
+        "不誠實地意圖導致他人蒙受"
+      ],
+      "ch_query": [
+        "不诚实地意图导致他人蒙受损失",
+        "不诚实地意图导致他人蒙受"
+      ],
+      "en_query": [
+        "dishonest intent to cause loss to another",
+        "dishonest intent to cause loss to another"
+      ]
+    },
+    "raw_row": {
+      "tw": "不誠實地意圖導致他人蒙受損失",
+      "ch": "不诚实地意图导致他人蒙受损失",
+      "en": "dishonest intent to cause loss to another"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "法律程序謄本",
+      "ch": "法律程序誊本",
+      "en": "transcript of the proceedings"
+    },
+    "query_variants": {
+      "tw_query": [
+        "法律程序謄本",
+        "法律程序"
+      ],
+      "ch_query": [
+        "法律程序誊本",
+        "法律程序"
+      ],
+      "en_query": [
+        "transcript of the proceedings",
+        "transcript of the proceedings",
+        "transcript of the proceeding"
+      ]
+    },
+    "raw_row": {
+      "tw": "法律程序謄本",
+      "ch": "法律程序誊本",
+      "en": "transcript of the proceedings"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "自簽擔保",
+      "ch": "自签担保",
+      "en": "enter into ... recognizance"
+    },
+    "query_variants": {
+      "tw_query": [
+        "自簽擔保"
+      ],
+      "ch_query": [
+        "自签担保"
+      ],
+      "en_query": [
+        "enter into ... recognizance",
+        "enter into ... recognizance"
+      ]
+    },
+    "raw_row": {
+      "tw": "自簽擔保",
+      "ch": "自签担保",
+      "en": "enter into ... recognizance"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "審訊時的主要爭論點",
+      "ch": "审讯时的主要争论点",
+      "en": "central issue at trial"
+    },
+    "query_variants": {
+      "tw_query": [
+        "審訊時的主要爭論點",
+        "審訊時的主要爭"
+      ],
+      "ch_query": [
+        "审讯时的主要争论点",
+        "审讯时的主要争"
+      ],
+      "en_query": [
+        "central issue at trial",
+        "central issue at trial"
+      ]
+    },
+    "raw_row": {
+      "tw": "審訊時的主要爭論點",
+      "ch": "审讯时的主要争论点",
+      "en": "central issue at trial"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "必要和相稱",
+      "ch": "必要和相称",
+      "en": "necessity and proportionality"
+    },
+    "query_variants": {
+      "tw_query": [
+        "必要和相稱",
+        "必要和相"
+      ],
+      "ch_query": [
+        "必要和相称",
+        "必要和相"
+      ],
+      "en_query": [
+        "necessity and proportionality",
+        "necessity and proportionality"
+      ]
+    },
+    "raw_row": {
+      "tw": "必要和相稱",
+      "ch": "必要和相称",
+      "en": "necessity and proportionality"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "免使自己入罪的原則",
+      "ch": "免使自己入罪的原则",
+      "en": "principle against self-incrimination"
+    },
+    "query_variants": {
+      "tw_query": [
+        "免使自己入罪的原則",
+        "免使自己入罪的"
+      ],
+      "ch_query": [
+        "免使自己入罪的原则",
+        "免使自己入罪的"
+      ],
+      "en_query": [
+        "principle against self-incrimination",
+        "principle against self-incrimination"
+      ]
+    },
+    "raw_row": {
+      "tw": "免使自己入罪的原則",
+      "ch": "免使自己入罪的原则",
+      "en": "principle against self-incrimination"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "勞敎中心",
+      "ch": "劳敎中心",
+      "en": "detention centre"
+    },
+    "query_variants": {
+      "tw_query": [
+        "勞敎中心"
+      ],
+      "ch_query": [
+        "劳敎中心"
+      ],
+      "en_query": [
+        "detention centre",
+        "detention centre"
+      ]
+    },
+    "raw_row": {
+      "tw": "勞敎中心",
+      "ch": "劳敎中心",
+      "en": "detention centre"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "下層法院",
+      "ch": "下层法院",
+      "en": "lower court"
+    },
+    "query_variants": {
+      "tw_query": [
+        "下層法院"
+      ],
+      "ch_query": [
+        "下层法院"
+      ],
+      "en_query": [
+        "lower court",
+        "lower court"
+      ]
+    },
+    "raw_row": {
+      "tw": "下層法院",
+      "ch": "下层法院",
+      "en": "lower court"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有效的判刑選擇",
+      "ch": "有效的判刑选择",
+      "en": "valid sentencing option"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有效的判刑選擇",
+        "有效的判刑"
+      ],
+      "ch_query": [
+        "有效的判刑选择",
+        "有效的判刑"
+      ],
+      "en_query": [
+        "valid sentencing option",
+        "valid sentencing option"
+      ]
+    },
+    "raw_row": {
+      "tw": "有效的判刑選擇",
+      "ch": "有效的判刑选择",
+      "en": "valid sentencing option"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "助控證據",
+      "ch": "助控证据",
+      "en": "supporting evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "助控證據"
+      ],
+      "ch_query": [
+        "助控证据"
+      ],
+      "en_query": [
+        "supporting evidence",
+        "supporting evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "助控證據",
+      "ch": "助控证据",
+      "en": "supporting evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "經同意而作出的行為",
+      "ch": "经同意而作出的行为",
+      "en": "consensual conduct"
+    },
+    "query_variants": {
+      "tw_query": [
+        "經同意而作出的行為",
+        "經同意而作出的"
+      ],
+      "ch_query": [
+        "经同意而作出的行为",
+        "经同意而作出的"
+      ],
+      "en_query": [
+        "consensual conduct",
+        "consensual conduct"
+      ]
+    },
+    "raw_row": {
+      "tw": "經同意而作出的行為",
+      "ch": "经同意而作出的行为",
+      "en": "consensual conduct"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "整體罪行嚴重性",
+      "ch": "整体罪行严重性",
+      "en": "total criminality of offence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "整體罪行嚴重性",
+        "整體罪行嚴"
+      ],
+      "ch_query": [
+        "整体罪行严重性",
+        "整体罪行严"
+      ],
+      "en_query": [
+        "total criminality of offence",
+        "total criminality of offence"
+      ]
+    },
+    "raw_row": {
+      "tw": "整體罪行嚴重性",
+      "ch": "整体罪行严重性",
+      "en": "total criminality of offence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "主動",
+      "ch": "主动",
+      "en": "on ... own motion"
+    },
+    "query_variants": {
+      "tw_query": [
+        "主動"
+      ],
+      "ch_query": [
+        "主动"
+      ],
+      "en_query": [
+        "on ... own motion",
+        "on ... own motion"
+      ]
+    },
+    "raw_row": {
+      "tw": "主動",
+      "ch": "主动",
+      "en": "on ... own motion"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "含糊不清的認罪",
+      "ch": "含糊不清的认罪",
+      "en": "equivocal plea"
+    },
+    "query_variants": {
+      "tw_query": [
+        "含糊不清的認罪",
+        "含糊不清的"
+      ],
+      "ch_query": [
+        "含糊不清的认罪",
+        "含糊不清的"
+      ],
+      "en_query": [
+        "equivocal plea",
+        "equivocal plea"
+      ]
+    },
+    "raw_row": {
+      "tw": "含糊不清的認罪",
+      "ch": "含糊不清的认罪",
+      "en": "equivocal plea"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "無能力犯罪",
+      "ch": "无能力犯罪",
+      "en": "doli incapax"
+    },
+    "query_variants": {
+      "tw_query": [
+        "無能力犯罪",
+        "無能力犯"
+      ],
+      "ch_query": [
+        "无能力犯罪",
+        "无能力犯"
+      ],
+      "en_query": [
+        "doli incapax",
+        "doli incapax"
+      ]
+    },
+    "raw_row": {
+      "tw": "無能力犯罪",
+      "ch": "无能力犯罪",
+      "en": "doli incapax"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "須呈報的死亡個案",
+      "ch": "须呈报的死亡个案",
+      "en": "reportable death"
+    },
+    "query_variants": {
+      "tw_query": [
+        "須呈報的死亡個案",
+        "須呈報的死亡"
+      ],
+      "ch_query": [
+        "须呈报的死亡个案",
+        "须呈报的死亡"
+      ],
+      "en_query": [
+        "reportable death",
+        "reportable death"
+      ]
+    },
+    "raw_row": {
+      "tw": "須呈報的死亡個案",
+      "ch": "须呈报的死亡个案",
+      "en": "reportable death"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "分期執行的刑期",
+      "ch": "分期执行的刑期",
+      "en": "consecutive sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "分期執行的刑期",
+        "分期執行的"
+      ],
+      "ch_query": [
+        "分期执行的刑期",
+        "分期执行的"
+      ],
+      "en_query": [
+        "consecutive sentence",
+        "consecutive sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "分期執行的刑期",
+      "ch": "分期执行的刑期",
+      "en": "consecutive sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "害怕受損",
+      "ch": "害怕受损",
+      "en": "fear of prejudice"
+    },
+    "query_variants": {
+      "tw_query": [
+        "害怕受損"
+      ],
+      "ch_query": [
+        "害怕受损"
+      ],
+      "en_query": [
+        "fear of prejudice",
+        "fear of prejudice"
+      ]
+    },
+    "raw_row": {
+      "tw": "害怕受損",
+      "ch": "害怕受损",
+      "en": "fear of prejudice"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "思想正常的人",
+      "ch": "思想正常的人",
+      "en": "right-minded person"
+    },
+    "query_variants": {
+      "tw_query": [
+        "思想正常的人",
+        "思想正常"
+      ],
+      "ch_query": [
+        "思想正常的人",
+        "思想正常"
+      ],
+      "en_query": [
+        "right-minded person",
+        "right-minded person"
+      ]
+    },
+    "raw_row": {
+      "tw": "思想正常的人",
+      "ch": "思想正常的人",
+      "en": "right-minded person"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "招認口供",
+      "ch": "招认口供",
+      "en": "confession statement"
+    },
+    "query_variants": {
+      "tw_query": [
+        "招認口供"
+      ],
+      "ch_query": [
+        "招认口供"
+      ],
+      "en_query": [
+        "confession statement",
+        "confession statement"
+      ]
+    },
+    "raw_row": {
+      "tw": "招認口供",
+      "ch": "招认口供",
+      "en": "confession statement"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "從事實上作一個可推翻的假定",
+      "ch": "从事实上作一个可推翻的假定",
+      "en": "rebuttable presumption of facts"
+    },
+    "query_variants": {
+      "tw_query": [
+        "從事實上作一個可推翻的假定",
+        "從事實上作一個可推翻的"
+      ],
+      "ch_query": [
+        "从事实上作一个可推翻的假定",
+        "从事实上作一个可推翻的"
+      ],
+      "en_query": [
+        "rebuttable presumption of facts",
+        "rebuttable presumption of facts",
+        "rebuttable presumption of fact"
+      ]
+    },
+    "raw_row": {
+      "tw": "從事實上作一個可推翻的假定",
+      "ch": "从事实上作一个可推翻的假定",
+      "en": "rebuttable presumption of facts"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "口述判詞",
+      "ch": "口述判词",
+      "en": "oral judgment"
+    },
+    "query_variants": {
+      "tw_query": [
+        "口述判詞"
+      ],
+      "ch_query": [
+        "口述判词"
+      ],
+      "en_query": [
+        "oral judgment",
+        "oral judgment"
+      ]
+    },
+    "raw_row": {
+      "tw": "口述判詞",
+      "ch": "口述判词",
+      "en": "oral judgment"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "同期執行的命令",
+      "ch": "同期执行的命令",
+      "en": "concurrent order"
+    },
+    "query_variants": {
+      "tw_query": [
+        "同期執行的命令",
+        "同期執行的"
+      ],
+      "ch_query": [
+        "同期执行的命令",
+        "同期执行的"
+      ],
+      "en_query": [
+        "concurrent order",
+        "concurrent order"
+      ]
+    },
+    "raw_row": {
+      "tw": "同期執行的命令",
+      "ch": "同期执行的命令",
+      "en": "concurrent order"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "貪污",
+      "ch": "贪污",
+      "en": "corruption"
+    },
+    "query_variants": {
+      "tw_query": [
+        "貪污"
+      ],
+      "ch_query": [
+        "贪污"
+      ],
+      "en_query": [
+        "corruption",
+        "corruption"
+      ]
+    },
+    "raw_row": {
+      "tw": "貪污",
+      "ch": "贪污",
+      "en": "corruption"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "混合供詞",
+      "ch": "混合供词",
+      "en": "mixed statement"
+    },
+    "query_variants": {
+      "tw_query": [
+        "混合供詞"
+      ],
+      "ch_query": [
+        "混合供词"
+      ],
+      "en_query": [
+        "mixed statement",
+        "mixed statement"
+      ]
+    },
+    "raw_row": {
+      "tw": "混合供詞",
+      "ch": "混合供词",
+      "en": "mixed statement"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "判被告人繳付的訟費",
+      "ch": "判被告人缴付的讼费",
+      "en": "costs awarded against the defendant"
+    },
+    "query_variants": {
+      "tw_query": [
+        "判被告人繳付的訟費",
+        "判被告人繳付的"
+      ],
+      "ch_query": [
+        "判被告人缴付的讼费",
+        "判被告人缴付的"
+      ],
+      "en_query": [
+        "costs awarded against the defendant",
+        "costs awarded against the defendant"
+      ]
+    },
+    "raw_row": {
+      "tw": "判被告人繳付的訟費",
+      "ch": "判被告人缴付的讼费",
+      "en": "costs awarded against the defendant"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "動議通知書",
+      "ch": "动议通知书",
+      "en": "notice of motion"
+    },
+    "query_variants": {
+      "tw_query": [
+        "動議通知書",
+        "動議通知"
+      ],
+      "ch_query": [
+        "动议通知书",
+        "动议通知"
+      ],
+      "en_query": [
+        "notice of motion",
+        "notice of motion"
+      ]
+    },
+    "raw_row": {
+      "tw": "動議通知書",
+      "ch": "动议通知书",
+      "en": "notice of motion"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "駕駛資格取消期間",
+      "ch": "驾驶资格取消期间",
+      "en": "disqualification period"
+    },
+    "query_variants": {
+      "tw_query": [
+        "駕駛資格取消期間",
+        "駕駛資格取消"
+      ],
+      "ch_query": [
+        "驾驶资格取消期间",
+        "驾驶资格取消"
+      ],
+      "en_query": [
+        "disqualification period",
+        "disqualification period"
+      ]
+    },
+    "raw_row": {
+      "tw": "駕駛資格取消期間",
+      "ch": "驾驶资格取消期间",
+      "en": "disqualification period"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "具關鍵性的錯誤指引",
+      "ch": "具关键性的错误指引",
+      "en": "material misdirection"
+    },
+    "query_variants": {
+      "tw_query": [
+        "具關鍵性的錯誤指引",
+        "具關鍵性的錯誤"
+      ],
+      "ch_query": [
+        "具关键性的错误指引",
+        "具关键性的错误"
+      ],
+      "en_query": [
+        "material misdirection",
+        "material misdirection"
+      ]
+    },
+    "raw_row": {
+      "tw": "具關鍵性的錯誤指引",
+      "ch": "具关键性的错误指引",
+      "en": "material misdirection"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "防干擾財物封套",
+      "ch": "防干扰财物封套",
+      "en": "tamper evident property envelope"
+    },
+    "query_variants": {
+      "tw_query": [
+        "防干擾財物封套",
+        "防干擾財物"
+      ],
+      "ch_query": [
+        "防干扰财物封套",
+        "防干扰财物"
+      ],
+      "en_query": [
+        "tamper evident property envelope",
+        "tamper evident property envelope"
+      ]
+    },
+    "raw_row": {
+      "tw": "防干擾財物封套",
+      "ch": "防干扰财物封套",
+      "en": "tamper evident property envelope"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "結案陳詞",
+      "ch": "结案陈词",
+      "en": "closing address"
+    },
+    "query_variants": {
+      "tw_query": [
+        "結案陳詞"
+      ],
+      "ch_query": [
+        "结案陈词"
+      ],
+      "en_query": [
+        "closing address",
+        "closing address",
+        "closing addres"
+      ]
+    },
+    "raw_row": {
+      "tw": "結案陳詞",
+      "ch": "结案陈词",
+      "en": "closing address"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "一致行動",
+      "ch": "一致行动",
+      "en": "acting in concert"
+    },
+    "query_variants": {
+      "tw_query": [
+        "一致行動"
+      ],
+      "ch_query": [
+        "一致行动"
+      ],
+      "en_query": [
+        "acting in concert",
+        "acting in concert"
+      ]
+    },
+    "raw_row": {
+      "tw": "一致行動",
+      "ch": "一致行动",
+      "en": "acting in concert"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "可具有採取適當行動的權力的人",
+      "ch": "可具有采取适当行动的权力的人",
+      "en": "person who may have power to take appropriate action"
+    },
+    "query_variants": {
+      "tw_query": [
+        "可具有採取適當行動的權力的人",
+        "可具有採取適當行動的權力"
+      ],
+      "ch_query": [
+        "可具有采取适当行动的权力的人",
+        "可具有采取适当行动的权力"
+      ],
+      "en_query": [
+        "person who may have power to take appropriate action",
+        "person who may have power to take appropriate action"
+      ]
+    },
+    "raw_row": {
+      "tw": "可具有採取適當行動的權力的人",
+      "ch": "可具有采取适当行动的权力的人",
+      "en": "person who may have power to take appropriate action"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "開脫罪責的供詞",
+      "ch": "开脱罪责的供词",
+      "en": "exculpatory statement"
+    },
+    "query_variants": {
+      "tw_query": [
+        "開脫罪責的供詞",
+        "開脫罪責的"
+      ],
+      "ch_query": [
+        "开脱罪责的供词",
+        "开脱罪责的"
+      ],
+      "en_query": [
+        "exculpatory statement",
+        "exculpatory statement"
+      ]
+    },
+    "raw_row": {
+      "tw": "開脫罪責的供詞",
+      "ch": "开脱罪责的供词",
+      "en": "exculpatory statement"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "認人證據",
+      "ch": "认人证据",
+      "en": "identification evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "認人證據"
+      ],
+      "ch_query": [
+        "认人证据"
+      ],
+      "en_query": [
+        "identification evidence",
+        "identification evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "認人證據",
+      "ch": "认人证据",
+      "en": "identification evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "強行帶走",
+      "ch": "强行带走",
+      "en": "forcible taking"
+    },
+    "query_variants": {
+      "tw_query": [
+        "強行帶走"
+      ],
+      "ch_query": [
+        "强行带走"
+      ],
+      "en_query": [
+        "forcible taking",
+        "forcible taking"
+      ]
+    },
+    "raw_row": {
+      "tw": "強行帶走",
+      "ch": "强行带走",
+      "en": "forcible taking"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "認人證據",
+      "ch": "认人证据",
+      "en": "identification evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "認人證據"
+      ],
+      "ch_query": [
+        "认人证据"
+      ],
+      "en_query": [
+        "identification evidence",
+        "identification evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "認人證據",
+      "ch": "认人证据",
+      "en": "identification evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "追溯入罪",
+      "ch": "追溯入罪",
+      "en": "retrospective incrimination"
+    },
+    "query_variants": {
+      "tw_query": [
+        "追溯入罪"
+      ],
+      "ch_query": [
+        "追溯入罪"
+      ],
+      "en_query": [
+        "retrospective incrimination",
+        "retrospective incrimination"
+      ]
+    },
+    "raw_row": {
+      "tw": "追溯入罪",
+      "ch": "追溯入罪",
+      "en": "retrospective incrimination"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "夥同犯案",
+      "ch": "伙同犯案",
+      "en": "joint enterprise"
+    },
+    "query_variants": {
+      "tw_query": [
+        "夥同犯案"
+      ],
+      "ch_query": [
+        "伙同犯案"
+      ],
+      "en_query": [
+        "joint enterprise",
+        "joint enterprise"
+      ]
+    },
+    "raw_row": {
+      "tw": "夥同犯案",
+      "ch": "伙同犯案",
+      "en": "joint enterprise"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "受到性騷擾",
+      "ch": "受到性骚扰",
+      "en": "sexually molested"
+    },
+    "query_variants": {
+      "tw_query": [
+        "受到性騷擾",
+        "受到性騷"
+      ],
+      "ch_query": [
+        "受到性骚扰",
+        "受到性骚"
+      ],
+      "en_query": [
+        "sexually molested",
+        "sexually molested"
+      ]
+    },
+    "raw_row": {
+      "tw": "受到性騷擾",
+      "ch": "受到性骚扰",
+      "en": "sexually molested"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "實質控制",
+      "ch": "实质控制",
+      "en": "physical control"
+    },
+    "query_variants": {
+      "tw_query": [
+        "實質控制"
+      ],
+      "ch_query": [
+        "实质控制"
+      ],
+      "en_query": [
+        "physical control",
+        "physical control"
+      ]
+    },
+    "raw_row": {
+      "tw": "實質控制",
+      "ch": "实质控制",
+      "en": "physical control"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "錯誤引用法律",
+      "ch": "错误引用法律",
+      "en": "misapplication of law"
+    },
+    "query_variants": {
+      "tw_query": [
+        "錯誤引用法律",
+        "錯誤引用"
+      ],
+      "ch_query": [
+        "错误引用法律",
+        "错误引用"
+      ],
+      "en_query": [
+        "misapplication of law",
+        "misapplication of law"
+      ]
+    },
+    "raw_row": {
+      "tw": "錯誤引用法律",
+      "ch": "错误引用法律",
+      "en": "misapplication of law"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "參與……的資格",
+      "ch": "参与……的资格",
+      "en": "locus standi"
+    },
+    "query_variants": {
+      "tw_query": [
+        "參與……的資格",
+        "參與……的"
+      ],
+      "ch_query": [
+        "参与……的资格",
+        "参与……的"
+      ],
+      "en_query": [
+        "locus standi",
+        "locus standi"
+      ]
+    },
+    "raw_row": {
+      "tw": "參與……的資格",
+      "ch": "参与……的资格",
+      "en": "locus standi"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不幸以致死亡",
+      "ch": "不幸以致死亡",
+      "en": "misadventure"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不幸以致死亡",
+        "不幸以致"
+      ],
+      "ch_query": [
+        "不幸以致死亡",
+        "不幸以致"
+      ],
+      "en_query": [
+        "misadventure",
+        "misadventure"
+      ]
+    },
+    "raw_row": {
+      "tw": "不幸以致死亡",
+      "ch": "不幸以致死亡",
+      "en": "misadventure"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "具體理由",
+      "ch": "具体理由",
+      "en": "positive reason"
+    },
+    "query_variants": {
+      "tw_query": [
+        "具體理由"
+      ],
+      "ch_query": [
+        "具体理由"
+      ],
+      "en_query": [
+        "positive reason",
+        "positive reason"
+      ]
+    },
+    "raw_row": {
+      "tw": "具體理由",
+      "ch": "具体理由",
+      "en": "positive reason"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "犯罪的精神上行為能力",
+      "ch": "犯罪的精神上行为能力",
+      "en": "mental capacity to commit offence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "犯罪的精神上行為能力",
+        "犯罪的精神上行為"
+      ],
+      "ch_query": [
+        "犯罪的精神上行为能力",
+        "犯罪的精神上行为"
+      ],
+      "en_query": [
+        "mental capacity to commit offence",
+        "mental capacity to commit offence"
+      ]
+    },
+    "raw_row": {
+      "tw": "犯罪的精神上行為能力",
+      "ch": "犯罪的精神上行为能力",
+      "en": "mental capacity to commit offence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "從犯證據",
+      "ch": "从犯证据",
+      "en": "accomplice evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "從犯證據"
+      ],
+      "ch_query": [
+        "从犯证据"
+      ],
+      "en_query": [
+        "accomplice evidence",
+        "accomplice evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "從犯證據",
+      "ch": "从犯证据",
+      "en": "accomplice evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "自招懷疑",
+      "ch": "自招怀疑",
+      "en": "brought suspicion upon himself"
+    },
+    "query_variants": {
+      "tw_query": [
+        "自招懷疑"
+      ],
+      "ch_query": [
+        "自招怀疑"
+      ],
+      "en_query": [
+        "brought suspicion upon himself",
+        "brought suspicion upon himself"
+      ]
+    },
+    "raw_row": {
+      "tw": "自招懷疑",
+      "ch": "自招怀疑",
+      "en": "brought suspicion upon himself"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "違反誠信的行為",
+      "ch": "违反诚信的行为",
+      "en": "act in breach of trust"
+    },
+    "query_variants": {
+      "tw_query": [
+        "違反誠信的行為",
+        "違反誠信的"
+      ],
+      "ch_query": [
+        "违反诚信的行为",
+        "违反诚信的"
+      ],
+      "en_query": [
+        "act in breach of trust",
+        "act in breach of trust"
+      ]
+    },
+    "raw_row": {
+      "tw": "違反誠信的行為",
+      "ch": "违反诚信的行为",
+      "en": "act in breach of trust"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "判刑法官",
+      "ch": "判刑法官",
+      "en": "sentencing judge"
+    },
+    "query_variants": {
+      "tw_query": [
+        "判刑法官"
+      ],
+      "ch_query": [
+        "判刑法官"
+      ],
+      "en_query": [
+        "sentencing judge",
+        "sentencing judge"
+      ]
+    },
+    "raw_row": {
+      "tw": "判刑法官",
+      "ch": "判刑法官",
+      "en": "sentencing judge"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "整體罪行刑責",
+      "ch": "整体罪行刑责",
+      "en": "total criminality of offence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "整體罪行刑責",
+        "整體罪行"
+      ],
+      "ch_query": [
+        "整体罪行刑责",
+        "整体罪行"
+      ],
+      "en_query": [
+        "total criminality of offence",
+        "total criminality of offence"
+      ]
+    },
+    "raw_row": {
+      "tw": "整體罪行刑責",
+      "ch": "整体罪行刑责",
+      "en": "total criminality of offence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "沒收財產聆訊",
+      "ch": "没收财产聆讯",
+      "en": "forfeiture hearing"
+    },
+    "query_variants": {
+      "tw_query": [
+        "沒收財產聆訊",
+        "沒收財產"
+      ],
+      "ch_query": [
+        "没收财产聆讯",
+        "没收财产"
+      ],
+      "en_query": [
+        "forfeiture hearing",
+        "forfeiture hearing"
+      ]
+    },
+    "raw_row": {
+      "tw": "沒收財產聆訊",
+      "ch": "没收财产聆讯",
+      "en": "forfeiture hearing"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "在上訴裁決前所服刑期作廢",
+      "ch": "在上诉裁决前所服刑期作废",
+      "en": "loss of time"
+    },
+    "query_variants": {
+      "tw_query": [
+        "在上訴裁決前所服刑期作廢",
+        "在上訴裁決前所服刑期"
+      ],
+      "ch_query": [
+        "在上诉裁决前所服刑期作废",
+        "在上诉裁决前所服刑期"
+      ],
+      "en_query": [
+        "loss of time",
+        "loss of time"
+      ]
+    },
+    "raw_row": {
+      "tw": "在上訴裁決前所服刑期作廢",
+      "ch": "在上诉裁决前所服刑期作废",
+      "en": "loss of time"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "實務指示",
+      "ch": "实务指示",
+      "en": "practice direction"
+    },
+    "query_variants": {
+      "tw_query": [
+        "實務指示"
+      ],
+      "ch_query": [
+        "实务指示"
+      ],
+      "en_query": [
+        "practice direction",
+        "practice direction"
+      ]
+    },
+    "raw_row": {
+      "tw": "實務指示",
+      "ch": "实务指示",
+      "en": "practice direction"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有能力犯罪",
+      "ch": "有能力犯罪",
+      "en": "doli capax"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有能力犯罪",
+        "有能力犯"
+      ],
+      "ch_query": [
+        "有能力犯罪",
+        "有能力犯"
+      ],
+      "en_query": [
+        "doli capax",
+        "doli capax"
+      ]
+    },
+    "raw_row": {
+      "tw": "有能力犯罪",
+      "ch": "有能力犯罪",
+      "en": "doli capax"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "一般合理及誠實人的客觀標準",
+      "ch": "一般合理及诚实人的客观标准",
+      "en": "the ordinary objective standards of reasonable and honest people"
+    },
+    "query_variants": {
+      "tw_query": [
+        "一般合理及誠實人的客觀標準",
+        "一般合理及誠實人的客觀"
+      ],
+      "ch_query": [
+        "一般合理及诚实人的客观标准",
+        "一般合理及诚实人的客观"
+      ],
+      "en_query": [
+        "the ordinary objective standards of reasonable and honest people",
+        "the ordinary objective standards of reasonable and honest people"
+      ]
+    },
+    "raw_row": {
+      "tw": "一般合理及誠實人的客觀標準",
+      "ch": "一般合理及诚实人的客观标准",
+      "en": "the ordinary objective standards of reasonable and honest people"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "自然原因",
+      "ch": "自然原因",
+      "en": "natural causes"
+    },
+    "query_variants": {
+      "tw_query": [
+        "自然原因"
+      ],
+      "ch_query": [
+        "自然原因"
+      ],
+      "en_query": [
+        "natural causes",
+        "natural causes",
+        "natural cause"
+      ]
+    },
+    "raw_row": {
+      "tw": "自然原因",
+      "ch": "自然原因",
+      "en": "natural causes"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不服判刑的上訴",
+      "ch": "不服判刑的上诉",
+      "en": "appeal against sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不服判刑的上訴",
+        "不服判刑的"
+      ],
+      "ch_query": [
+        "不服判刑的上诉",
+        "不服判刑的"
+      ],
+      "en_query": [
+        "appeal against sentence",
+        "appeal against sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "不服判刑的上訴",
+      "ch": "不服判刑的上诉",
+      "en": "appeal against sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "判刑差異",
+      "ch": "判刑差异",
+      "en": "disparity in sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "判刑差異"
+      ],
+      "ch_query": [
+        "判刑差异"
+      ],
+      "en_query": [
+        "disparity in sentence",
+        "disparity in sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "判刑差異",
+      "ch": "判刑差异",
+      "en": "disparity in sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "“割喉式”辯護",
+      "ch": "“割喉式”辩护",
+      "en": "cut-throat defence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "“割喉式”辯護",
+        "“割喉式”"
+      ],
+      "ch_query": [
+        "“割喉式”辩护",
+        "“割喉式”"
+      ],
+      "en_query": [
+        "cut-throat defence",
+        "cut-throat defence"
+      ]
+    },
+    "raw_row": {
+      "tw": "“割喉式”辯護",
+      "ch": "“割喉式”辩护",
+      "en": "cut-throat defence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "分期執行的監禁刑期",
+      "ch": "分期执行的监禁刑期",
+      "en": "consecutive sentences of imprisonment"
+    },
+    "query_variants": {
+      "tw_query": [
+        "分期執行的監禁刑期",
+        "分期執行的監禁"
+      ],
+      "ch_query": [
+        "分期执行的监禁刑期",
+        "分期执行的监禁"
+      ],
+      "en_query": [
+        "consecutive sentences of imprisonment",
+        "consecutive sentences of imprisonment"
+      ]
+    },
+    "raw_row": {
+      "tw": "分期執行的監禁刑期",
+      "ch": "分期执行的监禁刑期",
+      "en": "consecutive sentences of imprisonment"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不能認出被告人",
+      "ch": "不能认出被告人",
+      "en": "negative identification"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不能認出被告人",
+        "不能認出被"
+      ],
+      "ch_query": [
+        "不能认出被告人",
+        "不能认出被"
+      ],
+      "en_query": [
+        "negative identification",
+        "negative identification"
+      ]
+    },
+    "raw_row": {
+      "tw": "不能認出被告人",
+      "ch": "不能认出被告人",
+      "en": "negative identification"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "查問疑犯及錄取口供的規則及指示",
+      "ch": "查问疑犯及录取口供的规则及指示",
+      "en": "Rules and Directions for the Questioning of Suspects and the Taking of Statements"
+    },
+    "query_variants": {
+      "tw_query": [
+        "查問疑犯及錄取口供的規則及指示",
+        "查問疑犯及錄取口供的規則及"
+      ],
+      "ch_query": [
+        "查问疑犯及录取口供的规则及指示",
+        "查问疑犯及录取口供的规则及"
+      ],
+      "en_query": [
+        "Rules and Directions for the Questioning of Suspects and the Taking of Statements",
+        "rules and directions for the questioning of suspects and the taking of statements",
+        "Rules and Directions for the Questioning of Suspects and the Taking of Statement"
+      ]
+    },
+    "raw_row": {
+      "tw": "查問疑犯及錄取口供的規則及指示",
+      "ch": "查问疑犯及录取口供的规则及指示",
+      "en": "Rules and Directions for the Questioning of Suspects and the Taking of Statements"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "人事保釋",
+      "ch": "人事保释",
+      "en": "surety"
+    },
+    "query_variants": {
+      "tw_query": [
+        "人事保釋"
+      ],
+      "ch_query": [
+        "人事保释"
+      ],
+      "en_query": [
+        "surety",
+        "surety"
+      ]
+    },
+    "raw_row": {
+      "tw": "人事保釋",
+      "ch": "人事保释",
+      "en": "surety"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "作出……擾亂秩序的行為",
+      "ch": "作出……扰乱秩序的行为",
+      "en": "behaves in a ... disorderly manner"
+    },
+    "query_variants": {
+      "tw_query": [
+        "作出……擾亂秩序的行為",
+        "作出……擾亂秩序的"
+      ],
+      "ch_query": [
+        "作出……扰乱秩序的行为",
+        "作出……扰乱秩序的"
+      ],
+      "en_query": [
+        "behaves in a ... disorderly manner",
+        "behaves in a ... disorderly manner"
+      ]
+    },
+    "raw_row": {
+      "tw": "作出……擾亂秩序的行為",
+      "ch": "作出……扰乱秩序的行为",
+      "en": "behaves in a ... disorderly manner"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "給予過份比重",
+      "ch": "给予过份比重",
+      "en": "attach too much weight"
+    },
+    "query_variants": {
+      "tw_query": [
+        "給予過份比重",
+        "給予過份"
+      ],
+      "ch_query": [
+        "给予过份比重",
+        "给予过份"
+      ],
+      "en_query": [
+        "attach too much weight",
+        "attach too much weight"
+      ]
+    },
+    "raw_row": {
+      "tw": "給予過份比重",
+      "ch": "给予过份比重",
+      "en": "attach too much weight"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "合併控罪",
+      "ch": "合并控罪",
+      "en": "joinder of charges"
+    },
+    "query_variants": {
+      "tw_query": [
+        "合併控罪"
+      ],
+      "ch_query": [
+        "合并控罪"
+      ],
+      "en_query": [
+        "joinder of charges",
+        "joinder of charges",
+        "joinder of charge"
+      ]
+    },
+    "raw_row": {
+      "tw": "合併控罪",
+      "ch": "合并控罪",
+      "en": "joinder of charges"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "違反保釋條件",
+      "ch": "违反保释条件",
+      "en": "breach of bail condition"
+    },
+    "query_variants": {
+      "tw_query": [
+        "違反保釋條件",
+        "違反保釋"
+      ],
+      "ch_query": [
+        "违反保释条件",
+        "违反保释"
+      ],
+      "en_query": [
+        "breach of bail condition",
+        "breach of bail condition"
+      ]
+    },
+    "raw_row": {
+      "tw": "違反保釋條件",
+      "ch": "违反保释条件",
+      "en": "breach of bail condition"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "以案件呈述方式上訴",
+      "ch": "以案件呈述方式上诉",
+      "en": "appeal by way of case stated"
+    },
+    "query_variants": {
+      "tw_query": [
+        "以案件呈述方式上訴",
+        "以案件呈述方式"
+      ],
+      "ch_query": [
+        "以案件呈述方式上诉",
+        "以案件呈述方式"
+      ],
+      "en_query": [
+        "appeal by way of case stated",
+        "appeal by way of case stated"
+      ]
+    },
+    "raw_row": {
+      "tw": "以案件呈述方式上訴",
+      "ch": "以案件呈述方式上诉",
+      "en": "appeal by way of case stated"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "整體量刑原則",
+      "ch": "整体量刑原则",
+      "en": "the totality principle"
+    },
+    "query_variants": {
+      "tw_query": [
+        "整體量刑原則",
+        "整體量刑"
+      ],
+      "ch_query": [
+        "整体量刑原则",
+        "整体量刑"
+      ],
+      "en_query": [
+        "the totality principle",
+        "the totality principle"
+      ]
+    },
+    "raw_row": {
+      "tw": "整體量刑原則",
+      "ch": "整体量刑原则",
+      "en": "the totality principle"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "中立的旁觀者",
+      "ch": "中立的旁观者",
+      "en": "neutral observer"
+    },
+    "query_variants": {
+      "tw_query": [
+        "中立的旁觀者",
+        "中立的旁"
+      ],
+      "ch_query": [
+        "中立的旁观者",
+        "中立的旁"
+      ],
+      "en_query": [
+        "neutral observer",
+        "neutral observer"
+      ]
+    },
+    "raw_row": {
+      "tw": "中立的旁觀者",
+      "ch": "中立的旁观者",
+      "en": "neutral observer"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "輔助性或脗合性的證供",
+      "ch": "辅助性或脗合性的证供",
+      "en": "supporting or corroborative evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "輔助性或脗合性的證供",
+        "輔助性或脗合性的"
+      ],
+      "ch_query": [
+        "辅助性或脗合性的证供",
+        "辅助性或脗合性的"
+      ],
+      "en_query": [
+        "supporting or corroborative evidence",
+        "supporting or corroborative evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "輔助性或脗合性的證供",
+      "ch": "辅助性或脗合性的证供",
+      "en": "supporting or corroborative evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "整體量刑起點",
+      "ch": "整体量刑起点",
+      "en": "global starting point"
+    },
+    "query_variants": {
+      "tw_query": [
+        "整體量刑起點",
+        "整體量刑"
+      ],
+      "ch_query": [
+        "整体量刑起点",
+        "整体量刑"
+      ],
+      "en_query": [
+        "global starting point",
+        "global starting point"
+      ]
+    },
+    "raw_row": {
+      "tw": "整體量刑起點",
+      "ch": "整体量刑起点",
+      "en": "global starting point"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有權採取適當行動的人",
+      "ch": "有权采取适当行动的人",
+      "en": "person who may have power to take appropriate action"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有權採取適當行動的人",
+        "有權採取適當行動"
+      ],
+      "ch_query": [
+        "有权采取适当行动的人",
+        "有权采取适当行动"
+      ],
+      "en_query": [
+        "person who may have power to take appropriate action",
+        "person who may have power to take appropriate action"
+      ]
+    },
+    "raw_row": {
+      "tw": "有權採取適當行動的人",
+      "ch": "有权采取适当行动的人",
+      "en": "person who may have power to take appropriate action"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "在上訴裁決前所服刑期作廢",
+      "ch": "在上诉裁决前所服刑期作废",
+      "en": "loss of time"
+    },
+    "query_variants": {
+      "tw_query": [
+        "在上訴裁決前所服刑期作廢",
+        "在上訴裁決前所服刑期"
+      ],
+      "ch_query": [
+        "在上诉裁决前所服刑期作废",
+        "在上诉裁决前所服刑期"
+      ],
+      "en_query": [
+        "loss of time",
+        "loss of time"
+      ]
+    },
+    "raw_row": {
+      "tw": "在上訴裁決前所服刑期作廢",
+      "ch": "在上诉裁决前所服刑期作废",
+      "en": "loss of time"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "適當的量刑起點",
+      "ch": "适当的量刑起点",
+      "en": "appropriate starting point"
+    },
+    "query_variants": {
+      "tw_query": [
+        "適當的量刑起點",
+        "適當的量刑"
+      ],
+      "ch_query": [
+        "适当的量刑起点",
+        "适当的量刑"
+      ],
+      "en_query": [
+        "appropriate starting point",
+        "appropriate starting point"
+      ]
+    },
+    "raw_row": {
+      "tw": "適當的量刑起點",
+      "ch": "适当的量刑起点",
+      "en": "appropriate starting point"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不相符的證據",
+      "ch": "不相符的证据",
+      "en": "inconsistent evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不相符的證據",
+        "不相符的"
+      ],
+      "ch_query": [
+        "不相符的证据",
+        "不相符的"
+      ],
+      "en_query": [
+        "inconsistent evidence",
+        "inconsistent evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "不相符的證據",
+      "ch": "不相符的证据",
+      "en": "inconsistent evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "案例匯編",
+      "ch": "案例汇编",
+      "en": "law reports"
+    },
+    "query_variants": {
+      "tw_query": [
+        "案例匯編"
+      ],
+      "ch_query": [
+        "案例汇编"
+      ],
+      "en_query": [
+        "law reports",
+        "law reports",
+        "law report"
+      ]
+    },
+    "raw_row": {
+      "tw": "案例匯編",
+      "ch": "案例汇编",
+      "en": "law reports"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "把法律問題提交上訴法庭考慮",
+      "ch": "把法律问题提交上诉法庭考虑",
+      "en": "reserve question of law for consideration of Court of Appeal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "把法律問題提交上訴法庭考慮",
+        "把法律問題提交上訴法庭"
+      ],
+      "ch_query": [
+        "把法律问题提交上诉法庭考虑",
+        "把法律问题提交上诉法庭"
+      ],
+      "en_query": [
+        "reserve question of law for consideration of Court of Appeal",
+        "reserve question of law for consideration of court of appeal"
+      ]
+    },
+    "raw_row": {
+      "tw": "把法律問題提交上訴法庭考慮",
+      "ch": "把法律问题提交上诉法庭考虑",
+      "en": "reserve question of law for consideration of Court of Appeal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "程序上不當之處",
+      "ch": "程序上不当之处",
+      "en": "procedural irregularity"
+    },
+    "query_variants": {
+      "tw_query": [
+        "程序上不當之處",
+        "程序上不當"
+      ],
+      "ch_query": [
+        "程序上不当之处",
+        "程序上不当"
+      ],
+      "en_query": [
+        "procedural irregularity",
+        "procedural irregularity"
+      ]
+    },
+    "raw_row": {
+      "tw": "程序上不當之處",
+      "ch": "程序上不当之处",
+      "en": "procedural irregularity"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有充分利害關係的人",
+      "ch": "有充分利害关系的人",
+      "en": "properly interested person"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有充分利害關係的人",
+        "有充分利害關係"
+      ],
+      "ch_query": [
+        "有充分利害关系的人",
+        "有充分利害关系"
+      ],
+      "en_query": [
+        "properly interested person",
+        "properly interested person"
+      ]
+    },
+    "raw_row": {
+      "tw": "有充分利害關係的人",
+      "ch": "有充分利害关系的人",
+      "en": "properly interested person"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "口頭陳述",
+      "ch": "口头陈述",
+      "en": "oral statement"
+    },
+    "query_variants": {
+      "tw_query": [
+        "口頭陳述"
+      ],
+      "ch_query": [
+        "口头陈述"
+      ],
+      "en_query": [
+        "oral statement",
+        "oral statement"
+      ]
+    },
+    "raw_row": {
+      "tw": "口頭陳述",
+      "ch": "口头陈述",
+      "en": "oral statement"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不容爭辯的證據",
+      "ch": "不容争辩的证据",
+      "en": "indisputable evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不容爭辯的證據",
+        "不容爭辯的"
+      ],
+      "ch_query": [
+        "不容争辩的证据",
+        "不容争辩的"
+      ],
+      "en_query": [
+        "indisputable evidence",
+        "indisputable evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "不容爭辯的證據",
+      "ch": "不容争辩的证据",
+      "en": "indisputable evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "犯罪意圖",
+      "ch": "犯罪意图",
+      "en": "criminal intent"
+    },
+    "query_variants": {
+      "tw_query": [
+        "犯罪意圖"
+      ],
+      "ch_query": [
+        "犯罪意图"
+      ],
+      "en_query": [
+        "criminal intent",
+        "criminal intent"
+      ]
+    },
+    "raw_row": {
+      "tw": "犯罪意圖",
+      "ch": "犯罪意图",
+      "en": "criminal intent"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "嚴重程序錯誤",
+      "ch": "严重程序错误",
+      "en": "grave procedural error"
+    },
+    "query_variants": {
+      "tw_query": [
+        "嚴重程序錯誤",
+        "嚴重程序"
+      ],
+      "ch_query": [
+        "严重程序错误",
+        "严重程序"
+      ],
+      "en_query": [
+        "grave procedural error",
+        "grave procedural error"
+      ]
+    },
+    "raw_row": {
+      "tw": "嚴重程序錯誤",
+      "ch": "严重程序错误",
+      "en": "grave procedural error"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "罪案重演的錄像證據",
+      "ch": "罪案重演的录像证据",
+      "en": "video reconstruction evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "罪案重演的錄像證據",
+        "罪案重演的錄像"
+      ],
+      "ch_query": [
+        "罪案重演的录像证据",
+        "罪案重演的录像"
+      ],
+      "en_query": [
+        "video reconstruction evidence",
+        "video reconstruction evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "罪案重演的錄像證據",
+      "ch": "罪案重演的录像证据",
+      "en": "video reconstruction evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "死於不幸",
+      "ch": "死于不幸",
+      "en": "misadventure"
+    },
+    "query_variants": {
+      "tw_query": [
+        "死於不幸"
+      ],
+      "ch_query": [
+        "死于不幸"
+      ],
+      "en_query": [
+        "misadventure",
+        "misadventure"
+      ]
+    },
+    "raw_row": {
+      "tw": "死於不幸",
+      "ch": "死于不幸",
+      "en": "misadventure"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "把法律問題提交上訴法庭考慮",
+      "ch": "把法律问题提交上诉法庭考虑",
+      "en": "reserve question of law for consideration of Court of Appeal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "把法律問題提交上訴法庭考慮",
+        "把法律問題提交上訴法庭"
+      ],
+      "ch_query": [
+        "把法律问题提交上诉法庭考虑",
+        "把法律问题提交上诉法庭"
+      ],
+      "en_query": [
+        "reserve question of law for consideration of Court of Appeal",
+        "reserve question of law for consideration of court of appeal"
+      ]
+    },
+    "raw_row": {
+      "tw": "把法律問題提交上訴法庭考慮",
+      "ch": "把法律问题提交上诉法庭考虑",
+      "en": "reserve question of law for consideration of Court of Appeal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "罪行的陳述",
+      "ch": "罪行的陈述",
+      "en": "statement of offence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "罪行的陳述",
+        "罪行的陳"
+      ],
+      "ch_query": [
+        "罪行的陈述",
+        "罪行的陈"
+      ],
+      "en_query": [
+        "statement of offence",
+        "statement of offence"
+      ]
+    },
+    "raw_row": {
+      "tw": "罪行的陳述",
+      "ch": "罪行的陈述",
+      "en": "statement of offence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有能力犯罪",
+      "ch": "有能力犯罪",
+      "en": "doli capax"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有能力犯罪",
+        "有能力犯"
+      ],
+      "ch_query": [
+        "有能力犯罪",
+        "有能力犯"
+      ],
+      "en_query": [
+        "doli capax",
+        "doli capax"
+      ]
+    },
+    "raw_row": {
+      "tw": "有能力犯罪",
+      "ch": "有能力犯罪",
+      "en": "doli capax"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "附屬事項",
+      "ch": "附属事项",
+      "en": "collateral issue"
+    },
+    "query_variants": {
+      "tw_query": [
+        "附屬事項"
+      ],
+      "ch_query": [
+        "附属事项"
+      ],
+      "en_query": [
+        "collateral issue",
+        "collateral issue"
+      ]
+    },
+    "raw_row": {
+      "tw": "附屬事項",
+      "ch": "附属事项",
+      "en": "collateral issue"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "已獲證實的案情",
+      "ch": "已获证实的案情",
+      "en": "proven facts"
+    },
+    "query_variants": {
+      "tw_query": [
+        "已獲證實的案情",
+        "已獲證實的"
+      ],
+      "ch_query": [
+        "已获证实的案情",
+        "已获证实的"
+      ],
+      "en_query": [
+        "proven facts",
+        "proven facts",
+        "proven fact"
+      ]
+    },
+    "raw_row": {
+      "tw": "已獲證實的案情",
+      "ch": "已获证实的案情",
+      "en": "proven facts"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "案例遭否決",
+      "ch": "案例遭否决",
+      "en": "case reversed"
+    },
+    "query_variants": {
+      "tw_query": [
+        "案例遭否決",
+        "案例遭否"
+      ],
+      "ch_query": [
+        "案例遭否决",
+        "案例遭否"
+      ],
+      "en_query": [
+        "case reversed",
+        "case reversed"
+      ]
+    },
+    "raw_row": {
+      "tw": "案例遭否決",
+      "ch": "案例遭否决",
+      "en": "case reversed"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "刑罰須予擱置或減輕",
+      "ch": "刑罚须予搁置或减轻",
+      "en": "the sentence shall be set aside or reduced"
+    },
+    "query_variants": {
+      "tw_query": [
+        "刑罰須予擱置或減輕",
+        "刑罰須予擱置或"
+      ],
+      "ch_query": [
+        "刑罚须予搁置或减轻",
+        "刑罚须予搁置或"
+      ],
+      "en_query": [
+        "the sentence shall be set aside or reduced",
+        "the sentence shall be set aside or reduced"
+      ]
+    },
+    "raw_row": {
+      "tw": "刑罰須予擱置或減輕",
+      "ch": "刑罚须予搁置或减轻",
+      "en": "the sentence shall be set aside or reduced"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "參與……的資格",
+      "ch": "参与……的资格",
+      "en": "locus standi"
+    },
+    "query_variants": {
+      "tw_query": [
+        "參與……的資格",
+        "參與……的"
+      ],
+      "ch_query": [
+        "参与……的资格",
+        "参与……的"
+      ],
+      "en_query": [
+        "locus standi",
+        "locus standi"
+      ]
+    },
+    "raw_row": {
+      "tw": "參與……的資格",
+      "ch": "参与……的资格",
+      "en": "locus standi"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "爭訟案件",
+      "ch": "争讼案件",
+      "en": "contested case"
+    },
+    "query_variants": {
+      "tw_query": [
+        "爭訟案件"
+      ],
+      "ch_query": [
+        "争讼案件"
+      ],
+      "en_query": [
+        "contested case",
+        "contested case"
+      ]
+    },
+    "raw_row": {
+      "tw": "爭訟案件",
+      "ch": "争讼案件",
+      "en": "contested case"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "定額款項命令",
+      "ch": "定额款项命令",
+      "en": "fixed sum order"
+    },
+    "query_variants": {
+      "tw_query": [
+        "定額款項命令",
+        "定額款項"
+      ],
+      "ch_query": [
+        "定额款项命令",
+        "定额款项"
+      ],
+      "en_query": [
+        "fixed sum order",
+        "fixed sum order"
+      ]
+    },
+    "raw_row": {
+      "tw": "定額款項命令",
+      "ch": "定额款项命令",
+      "en": "fixed sum order"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "同案被控人一同判刑",
+      "ch": "同案被控人一同判刑",
+      "en": "simultaneous sentencing of co-accused"
+    },
+    "query_variants": {
+      "tw_query": [
+        "同案被控人一同判刑",
+        "同案被控人一同"
+      ],
+      "ch_query": [
+        "同案被控人一同判刑",
+        "同案被控人一同"
+      ],
+      "en_query": [
+        "simultaneous sentencing of co-accused",
+        "simultaneous sentencing of co-accused"
+      ]
+    },
+    "raw_row": {
+      "tw": "同案被控人一同判刑",
+      "ch": "同案被控人一同判刑",
+      "en": "simultaneous sentencing of co-accused"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "客觀的旁觀者",
+      "ch": "客观的旁观者",
+      "en": "objective bystander"
+    },
+    "query_variants": {
+      "tw_query": [
+        "客觀的旁觀者",
+        "客觀的旁"
+      ],
+      "ch_query": [
+        "客观的旁观者",
+        "客观的旁"
+      ],
+      "en_query": [
+        "objective bystander",
+        "objective bystander"
+      ]
+    },
+    "raw_row": {
+      "tw": "客觀的旁觀者",
+      "ch": "客观的旁观者",
+      "en": "objective bystander"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不公平損害呈請",
+      "ch": "不公平损害呈请",
+      "en": "unfair prejudice petition"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不公平損害呈請",
+        "不公平損害"
+      ],
+      "ch_query": [
+        "不公平损害呈请",
+        "不公平损害"
+      ],
+      "en_query": [
+        "unfair prejudice petition",
+        "unfair prejudice petition"
+      ]
+    },
+    "raw_row": {
+      "tw": "不公平損害呈請",
+      "ch": "不公平损害呈请",
+      "en": "unfair prejudice petition"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "把法律問題提交上訴法庭裁決",
+      "ch": "把法律问题提交上诉法庭裁决",
+      "en": "reserve question of law for consideration of Court of Appeal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "把法律問題提交上訴法庭裁決",
+        "把法律問題提交上訴法庭"
+      ],
+      "ch_query": [
+        "把法律问题提交上诉法庭裁决",
+        "把法律问题提交上诉法庭"
+      ],
+      "en_query": [
+        "reserve question of law for consideration of Court of Appeal",
+        "reserve question of law for consideration of court of appeal"
+      ]
+    },
+    "raw_row": {
+      "tw": "把法律問題提交上訴法庭裁決",
+      "ch": "把法律问题提交上诉法庭裁决",
+      "en": "reserve question of law for consideration of Court of Appeal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "把法律問題提交上訴法庭裁決",
+      "ch": "把法律问题提交上诉法庭裁决",
+      "en": "reserve question of law for consideration of Court of Appeal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "把法律問題提交上訴法庭裁決",
+        "把法律問題提交上訴法庭"
+      ],
+      "ch_query": [
+        "把法律问题提交上诉法庭裁决",
+        "把法律问题提交上诉法庭"
+      ],
+      "en_query": [
+        "reserve question of law for consideration of Court of Appeal",
+        "reserve question of law for consideration of court of appeal"
+      ]
+    },
+    "raw_row": {
+      "tw": "把法律問題提交上訴法庭裁決",
+      "ch": "把法律问题提交上诉法庭裁决",
+      "en": "reserve question of law for consideration of Court of Appeal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "同案被告",
+      "ch": "同案被告",
+      "en": "co-accused"
+    },
+    "query_variants": {
+      "tw_query": [
+        "同案被告"
+      ],
+      "ch_query": [
+        "同案被告"
+      ],
+      "en_query": [
+        "co-accused",
+        "co-accused"
+      ]
+    },
+    "raw_row": {
+      "tw": "同案被告",
+      "ch": "同案被告",
+      "en": "co-accused"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "進入住宅犯入屋犯法罪",
+      "ch": "进入住宅犯入屋犯法罪",
+      "en": "domestic burglary"
+    },
+    "query_variants": {
+      "tw_query": [
+        "進入住宅犯入屋犯法罪",
+        "進入住宅犯入屋犯"
+      ],
+      "ch_query": [
+        "进入住宅犯入屋犯法罪",
+        "进入住宅犯入屋犯"
+      ],
+      "en_query": [
+        "domestic burglary",
+        "domestic burglary"
+      ]
+    },
+    "raw_row": {
+      "tw": "進入住宅犯入屋犯法罪",
+      "ch": "进入住宅犯入屋犯法罪",
+      "en": "domestic burglary"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "整體刑期",
+      "ch": "整体刑期",
+      "en": "overall length of sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "整體刑期"
+      ],
+      "ch_query": [
+        "整体刑期"
+      ],
+      "en_query": [
+        "overall length of sentence",
+        "overall length of sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "整體刑期",
+      "ch": "整体刑期",
+      "en": "overall length of sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不在犯罪現場的通知",
+      "ch": "不在犯罪现场的通知",
+      "en": "notice of alibi"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不在犯罪現場的通知",
+        "不在犯罪現場的"
+      ],
+      "ch_query": [
+        "不在犯罪现场的通知",
+        "不在犯罪现场的"
+      ],
+      "en_query": [
+        "notice of alibi",
+        "notice of alibi"
+      ]
+    },
+    "raw_row": {
+      "tw": "不在犯罪現場的通知",
+      "ch": "不在犯罪现场的通知",
+      "en": "notice of alibi"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "主要案例",
+      "ch": "主要案例",
+      "en": "leading case"
+    },
+    "query_variants": {
+      "tw_query": [
+        "主要案例"
+      ],
+      "ch_query": [
+        "主要案例"
+      ],
+      "en_query": [
+        "leading case",
+        "leading case"
+      ]
+    },
+    "raw_row": {
+      "tw": "主要案例",
+      "ch": "主要案例",
+      "en": "leading case"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "證物表",
+      "ch": "证物表",
+      "en": "schedule of exhibits"
+    },
+    "query_variants": {
+      "tw_query": [
+        "證物表"
+      ],
+      "ch_query": [
+        "证物表"
+      ],
+      "en_query": [
+        "schedule of exhibits",
+        "schedule of exhibits",
+        "schedule of exhibit"
+      ]
+    },
+    "raw_row": {
+      "tw": "證物表",
+      "ch": "证物表",
+      "en": "schedule of exhibits"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "暫緩執行刑罰令",
+      "ch": "暂缓执行刑罚令",
+      "en": "order of suspended sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "暫緩執行刑罰令",
+        "暫緩執行刑"
+      ],
+      "ch_query": [
+        "暂缓执行刑罚令",
+        "暂缓执行刑"
+      ],
+      "en_query": [
+        "order of suspended sentence",
+        "order of suspended sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "暫緩執行刑罰令",
+      "ch": "暂缓执行刑罚令",
+      "en": "order of suspended sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "已確立的量刑政策",
+      "ch": "已确立的量刑政策",
+      "en": "settled sentencing policy"
+    },
+    "query_variants": {
+      "tw_query": [
+        "已確立的量刑政策",
+        "已確立的量刑"
+      ],
+      "ch_query": [
+        "已确立的量刑政策",
+        "已确立的量刑"
+      ],
+      "en_query": [
+        "settled sentencing policy",
+        "settled sentencing policy"
+      ]
+    },
+    "raw_row": {
+      "tw": "已確立的量刑政策",
+      "ch": "已确立的量刑政策",
+      "en": "settled sentencing policy"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "猥褻行為",
+      "ch": "猥亵行为",
+      "en": "indecent conduct"
+    },
+    "query_variants": {
+      "tw_query": [
+        "猥褻行為"
+      ],
+      "ch_query": [
+        "猥亵行为"
+      ],
+      "en_query": [
+        "indecent conduct",
+        "indecent conduct"
+      ]
+    },
+    "raw_row": {
+      "tw": "猥褻行為",
+      "ch": "猥亵行为",
+      "en": "indecent conduct"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "罪行重點",
+      "ch": "罪行重点",
+      "en": "gravamen of the offence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "罪行重點"
+      ],
+      "ch_query": [
+        "罪行重点"
+      ],
+      "en_query": [
+        "gravamen of the offence",
+        "gravamen of the offence"
+      ]
+    },
+    "raw_row": {
+      "tw": "罪行重點",
+      "ch": "罪行重点",
+      "en": "gravamen of the offence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "串謀作出傾向並意圖妨礙司法公正的作為",
+      "ch": "串谋作出倾向并意图妨碍司法公正的作为",
+      "en": "conspiracy to do an act or acts tending and intended to pervert the course of public justice"
+    },
+    "query_variants": {
+      "tw_query": [
+        "串謀作出傾向並意圖妨礙司法公正的作為",
+        "串謀作出傾向並意圖妨礙司法公正的"
+      ],
+      "ch_query": [
+        "串谋作出倾向并意图妨碍司法公正的作为",
+        "串谋作出倾向并意图妨碍司法公正的"
+      ],
+      "en_query": [
+        "conspiracy to do an act or acts tending and intended to pervert the course of public justice",
+        "conspiracy to do an act or acts tending and intended to pervert the course of public justice"
+      ]
+    },
+    "raw_row": {
+      "tw": "串謀作出傾向並意圖妨礙司法公正的作為",
+      "ch": "串谋作出倾向并意图妨碍司法公正的作为",
+      "en": "conspiracy to do an act or acts tending and intended to pervert the course of public justice"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "駕駛資格取消期間",
+      "ch": "驾驶资格取消期间",
+      "en": "disqualification period"
+    },
+    "query_variants": {
+      "tw_query": [
+        "駕駛資格取消期間",
+        "駕駛資格取消"
+      ],
+      "ch_query": [
+        "驾驶资格取消期间",
+        "驾驶资格取消"
+      ],
+      "en_query": [
+        "disqualification period",
+        "disqualification period"
+      ]
+    },
+    "raw_row": {
+      "tw": "駕駛資格取消期間",
+      "ch": "驾驶资格取消期间",
+      "en": "disqualification period"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "撤銷由律師代表",
+      "ch": "撤销由律师代表",
+      "en": "dismissal of counsel"
+    },
+    "query_variants": {
+      "tw_query": [
+        "撤銷由律師代表",
+        "撤銷由律師"
+      ],
+      "ch_query": [
+        "撤销由律师代表",
+        "撤销由律师"
+      ],
+      "en_query": [
+        "dismissal of counsel",
+        "dismissal of counsel"
+      ]
+    },
+    "raw_row": {
+      "tw": "撤銷由律師代表",
+      "ch": "撤销由律师代表",
+      "en": "dismissal of counsel"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "偏離慣常減刑",
+      "ch": "偏离惯常减刑",
+      "en": "departure from customary discount"
+    },
+    "query_variants": {
+      "tw_query": [
+        "偏離慣常減刑",
+        "偏離慣常"
+      ],
+      "ch_query": [
+        "偏离惯常减刑",
+        "偏离惯常"
+      ],
+      "en_query": [
+        "departure from customary discount",
+        "departure from customary discount"
+      ]
+    },
+    "raw_row": {
+      "tw": "偏離慣常減刑",
+      "ch": "偏离惯常减刑",
+      "en": "departure from customary discount"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "搜查令",
+      "ch": "搜查令",
+      "en": "search warrant"
+    },
+    "query_variants": {
+      "tw_query": [
+        "搜查令"
+      ],
+      "ch_query": [
+        "搜查令"
+      ],
+      "en_query": [
+        "search warrant",
+        "search warrant"
+      ]
+    },
+    "raw_row": {
+      "tw": "搜查令",
+      "ch": "搜查令",
+      "en": "search warrant"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "危害……財產",
+      "ch": "危害……财产",
+      "en": "endanger ... property"
+    },
+    "query_variants": {
+      "tw_query": [
+        "危害……財產",
+        "危害……"
+      ],
+      "ch_query": [
+        "危害……财产",
+        "危害……"
+      ],
+      "en_query": [
+        "endanger ... property",
+        "endanger ... property"
+      ]
+    },
+    "raw_row": {
+      "tw": "危害……財產",
+      "ch": "危害……财产",
+      "en": "endanger ... property"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "人事保釋",
+      "ch": "人事保释",
+      "en": "surety"
+    },
+    "query_variants": {
+      "tw_query": [
+        "人事保釋"
+      ],
+      "ch_query": [
+        "人事保释"
+      ],
+      "en_query": [
+        "surety",
+        "surety"
+      ]
+    },
+    "raw_row": {
+      "tw": "人事保釋",
+      "ch": "人事保释",
+      "en": "surety"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "真正相信",
+      "ch": "真正相信",
+      "en": "true belief"
+    },
+    "query_variants": {
+      "tw_query": [
+        "真正相信"
+      ],
+      "ch_query": [
+        "真正相信"
+      ],
+      "en_query": [
+        "true belief",
+        "true belief"
+      ]
+    },
+    "raw_row": {
+      "tw": "真正相信",
+      "ch": "真正相信",
+      "en": "true belief"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有犯罪或不誠實意圖",
+      "ch": "有犯罪或不诚实意图",
+      "en": "criminal or dishonest intent"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有犯罪或不誠實意圖",
+        "有犯罪或不誠實"
+      ],
+      "ch_query": [
+        "有犯罪或不诚实意图",
+        "有犯罪或不诚实"
+      ],
+      "en_query": [
+        "criminal or dishonest intent",
+        "criminal or dishonest intent"
+      ]
+    },
+    "raw_row": {
+      "tw": "有犯罪或不誠實意圖",
+      "ch": "有犯罪或不诚实意图",
+      "en": "criminal or dishonest intent"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "精神失常的狀態",
+      "ch": "精神失常的状态",
+      "en": "disordered state of mind"
+    },
+    "query_variants": {
+      "tw_query": [
+        "精神失常的狀態",
+        "精神失常的"
+      ],
+      "ch_query": [
+        "精神失常的状态",
+        "精神失常的"
+      ],
+      "en_query": [
+        "disordered state of mind",
+        "disordered state of mind"
+      ]
+    },
+    "raw_row": {
+      "tw": "精神失常的狀態",
+      "ch": "精神失常的状态",
+      "en": "disordered state of mind"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "持械搶劫",
+      "ch": "持械抢劫",
+      "en": "armed robbery"
+    },
+    "query_variants": {
+      "tw_query": [
+        "持械搶劫"
+      ],
+      "ch_query": [
+        "持械抢劫"
+      ],
+      "en_query": [
+        "armed robbery",
+        "armed robbery"
+      ]
+    },
+    "raw_row": {
+      "tw": "持械搶劫",
+      "ch": "持械抢劫",
+      "en": "armed robbery"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "一名單獨開庭的法官",
+      "ch": "一名单独开庭的法官",
+      "en": "judge sitting alone"
+    },
+    "query_variants": {
+      "tw_query": [
+        "一名單獨開庭的法官",
+        "一名單獨開庭的"
+      ],
+      "ch_query": [
+        "一名单独开庭的法官",
+        "一名单独开庭的"
+      ],
+      "en_query": [
+        "judge sitting alone",
+        "judge sitting alone"
+      ]
+    },
+    "raw_row": {
+      "tw": "一名單獨開庭的法官",
+      "ch": "一名单独开庭的法官",
+      "en": "judge sitting alone"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "交付審判令",
+      "ch": "交付审判令",
+      "en": "committal order"
+    },
+    "query_variants": {
+      "tw_query": [
+        "交付審判令",
+        "交付審判"
+      ],
+      "ch_query": [
+        "交付审判令",
+        "交付审判"
+      ],
+      "en_query": [
+        "committal order",
+        "committal order"
+      ]
+    },
+    "raw_row": {
+      "tw": "交付審判令",
+      "ch": "交付审判令",
+      "en": "committal order"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "無律師代表[親自應訊]",
+      "ch": "无律师代表[亲自应讯]",
+      "en": "in person"
+    },
+    "query_variants": {
+      "tw_query": [
+        "無律師代表[親自應訊]",
+        "無律師代表[親自應"
+      ],
+      "ch_query": [
+        "无律师代表[亲自应讯]",
+        "无律师代表[亲自应"
+      ],
+      "en_query": [
+        "in person",
+        "in person"
+      ]
+    },
+    "raw_row": {
+      "tw": "無律師代表[親自應訊]",
+      "ch": "无律师代表[亲自应讯]",
+      "en": "in person"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "給予過份比重",
+      "ch": "给予过份比重",
+      "en": "attach too much weight"
+    },
+    "query_variants": {
+      "tw_query": [
+        "給予過份比重",
+        "給予過份"
+      ],
+      "ch_query": [
+        "给予过份比重",
+        "给予过份"
+      ],
+      "en_query": [
+        "attach too much weight",
+        "attach too much weight"
+      ]
+    },
+    "raw_row": {
+      "tw": "給予過份比重",
+      "ch": "给予过份比重",
+      "en": "attach too much weight"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "小組認人",
+      "ch": "小组认人",
+      "en": "group identification"
+    },
+    "query_variants": {
+      "tw_query": [
+        "小組認人"
+      ],
+      "ch_query": [
+        "小组认人"
+      ],
+      "en_query": [
+        "group identification",
+        "group identification"
+      ]
+    },
+    "raw_row": {
+      "tw": "小組認人",
+      "ch": "小组认人",
+      "en": "group identification"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "秘密行動",
+      "ch": "秘密行动",
+      "en": "covert operation"
+    },
+    "query_variants": {
+      "tw_query": [
+        "秘密行動"
+      ],
+      "ch_query": [
+        "秘密行动"
+      ],
+      "en_query": [
+        "covert operation",
+        "covert operation"
+      ]
+    },
+    "raw_row": {
+      "tw": "秘密行動",
+      "ch": "秘密行动",
+      "en": "covert operation"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不幸以致死亡",
+      "ch": "不幸以致死亡",
+      "en": "misadventure"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不幸以致死亡",
+        "不幸以致"
+      ],
+      "ch_query": [
+        "不幸以致死亡",
+        "不幸以致"
+      ],
+      "en_query": [
+        "misadventure",
+        "misadventure"
+      ]
+    },
+    "raw_row": {
+      "tw": "不幸以致死亡",
+      "ch": "不幸以致死亡",
+      "en": "misadventure"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "傳召證人出庭令",
+      "ch": "传召证人出庭令",
+      "en": "subpoenas"
+    },
+    "query_variants": {
+      "tw_query": [
+        "傳召證人出庭令",
+        "傳召證人出"
+      ],
+      "ch_query": [
+        "传召证人出庭令",
+        "传召证人出"
+      ],
+      "en_query": [
+        "subpoenas",
+        "subpoenas",
+        "subpoena"
+      ]
+    },
+    "raw_row": {
+      "tw": "傳召證人出庭令",
+      "ch": "传召证人出庭令",
+      "en": "subpoenas"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "令……變為無效",
+      "ch": "令……变为无效",
+      "en": "nullify"
+    },
+    "query_variants": {
+      "tw_query": [
+        "令……變為無效",
+        "令……變為"
+      ],
+      "ch_query": [
+        "令……变为无效",
+        "令……变为"
+      ],
+      "en_query": [
+        "nullify",
+        "nullify"
+      ]
+    },
+    "raw_row": {
+      "tw": "令……變為無效",
+      "ch": "令……变为无效",
+      "en": "nullify"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "整體刑期",
+      "ch": "整体刑期",
+      "en": "overall sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "整體刑期"
+      ],
+      "ch_query": [
+        "整体刑期"
+      ],
+      "en_query": [
+        "overall sentence",
+        "overall sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "整體刑期",
+      "ch": "整体刑期",
+      "en": "overall sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "及時認罪",
+      "ch": "及时认罪",
+      "en": "timely plea"
+    },
+    "query_variants": {
+      "tw_query": [
+        "及時認罪"
+      ],
+      "ch_query": [
+        "及时认罪"
+      ],
+      "en_query": [
+        "timely plea",
+        "timely plea"
+      ]
+    },
+    "raw_row": {
+      "tw": "及時認罪",
+      "ch": "及时认罪",
+      "en": "timely plea"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "定罪已失時效計劃",
+      "ch": "定罪已失时效计划",
+      "en": "spent conviction scheme"
+    },
+    "query_variants": {
+      "tw_query": [
+        "定罪已失時效計劃",
+        "定罪已失時效"
+      ],
+      "ch_query": [
+        "定罪已失时效计划",
+        "定罪已失时效"
+      ],
+      "en_query": [
+        "spent conviction scheme",
+        "spent conviction scheme"
+      ]
+    },
+    "raw_row": {
+      "tw": "定罪已失時效計劃",
+      "ch": "定罪已失时效计划",
+      "en": "spent conviction scheme"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "良好品格指引",
+      "ch": "良好品格指引",
+      "en": "direction on good character"
+    },
+    "query_variants": {
+      "tw_query": [
+        "良好品格指引",
+        "良好品格"
+      ],
+      "ch_query": [
+        "良好品格指引",
+        "良好品格"
+      ],
+      "en_query": [
+        "direction on good character",
+        "direction on good character"
+      ]
+    },
+    "raw_row": {
+      "tw": "良好品格指引",
+      "ch": "良好品格指引",
+      "en": "direction on good character"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "屬宣布性質的濟助",
+      "ch": "属宣布性质的济助",
+      "en": "declaratory relief"
+    },
+    "query_variants": {
+      "tw_query": [
+        "屬宣布性質的濟助",
+        "屬宣布性質的"
+      ],
+      "ch_query": [
+        "属宣布性质的济助",
+        "属宣布性质的"
+      ],
+      "en_query": [
+        "declaratory relief",
+        "declaratory relief"
+      ]
+    },
+    "raw_row": {
+      "tw": "屬宣布性質的濟助",
+      "ch": "属宣布性质的济助",
+      "en": "declaratory relief"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "酌情權",
+      "ch": "酌情权",
+      "en": "discretion"
+    },
+    "query_variants": {
+      "tw_query": [
+        "酌情權"
+      ],
+      "ch_query": [
+        "酌情权"
+      ],
+      "en_query": [
+        "discretion",
+        "discretion"
+      ]
+    },
+    "raw_row": {
+      "tw": "酌情權",
+      "ch": "酌情权",
+      "en": "discretion"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "罪行的……元素",
+      "ch": "罪行的……元素",
+      "en": "element of the offence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "罪行的……元素",
+        "罪行的……"
+      ],
+      "ch_query": [
+        "罪行的……元素",
+        "罪行的……"
+      ],
+      "en_query": [
+        "element of the offence",
+        "element of the offence"
+      ]
+    },
+    "raw_row": {
+      "tw": "罪行的……元素",
+      "ch": "罪行的……元素",
+      "en": "element of the offence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "從犯法律責任",
+      "ch": "从犯法律责任",
+      "en": "accessorial liability"
+    },
+    "query_variants": {
+      "tw_query": [
+        "從犯法律責任",
+        "從犯法律"
+      ],
+      "ch_query": [
+        "从犯法律责任",
+        "从犯法律"
+      ],
+      "en_query": [
+        "accessorial liability",
+        "accessorial liability"
+      ]
+    },
+    "raw_row": {
+      "tw": "從犯法律責任",
+      "ch": "从犯法律责任",
+      "en": "accessorial liability"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "未經彙報案例",
+      "ch": "未经汇报案例",
+      "en": "unreported case"
+    },
+    "query_variants": {
+      "tw_query": [
+        "未經彙報案例",
+        "未經彙報"
+      ],
+      "ch_query": [
+        "未经汇报案例",
+        "未经汇报"
+      ],
+      "en_query": [
+        "unreported case",
+        "unreported case"
+      ]
+    },
+    "raw_row": {
+      "tw": "未經彙報案例",
+      "ch": "未经汇报案例",
+      "en": "unreported case"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "上訴宗卷",
+      "ch": "上诉宗卷",
+      "en": "appeal bundle"
+    },
+    "query_variants": {
+      "tw_query": [
+        "上訴宗卷"
+      ],
+      "ch_query": [
+        "上诉宗卷"
+      ],
+      "en_query": [
+        "appeal bundle",
+        "appeal bundle"
+      ]
+    },
+    "raw_row": {
+      "tw": "上訴宗卷",
+      "ch": "上诉宗卷",
+      "en": "appeal bundle"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "分期執行的刑期",
+      "ch": "分期执行的刑期",
+      "en": "consecutive sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "分期執行的刑期",
+        "分期執行的"
+      ],
+      "ch_query": [
+        "分期执行的刑期",
+        "分期执行的"
+      ],
+      "en_query": [
+        "consecutive sentence",
+        "consecutive sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "分期執行的刑期",
+      "ch": "分期执行的刑期",
+      "en": "consecutive sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "社交性質的販毒",
+      "ch": "社交性质的贩毒",
+      "en": "social trafficking"
+    },
+    "query_variants": {
+      "tw_query": [
+        "社交性質的販毒",
+        "社交性質的"
+      ],
+      "ch_query": [
+        "社交性质的贩毒",
+        "社交性质的"
+      ],
+      "en_query": [
+        "social trafficking",
+        "social trafficking"
+      ]
+    },
+    "raw_row": {
+      "tw": "社交性質的販毒",
+      "ch": "社交性质的贩毒",
+      "en": "social trafficking"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "駁回……上訴",
+      "ch": "驳回……上诉",
+      "en": "dismiss an appeal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "駁回……上訴",
+        "駁回……"
+      ],
+      "ch_query": [
+        "驳回……上诉",
+        "驳回……"
+      ],
+      "en_query": [
+        "dismiss an appeal",
+        "dismiss an appeal"
+      ]
+    },
+    "raw_row": {
+      "tw": "駁回……上訴",
+      "ch": "驳回……上诉",
+      "en": "dismiss an appeal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "思想正確的人",
+      "ch": "思想正确的人",
+      "en": "right-thinking person"
+    },
+    "query_variants": {
+      "tw_query": [
+        "思想正確的人",
+        "思想正確"
+      ],
+      "ch_query": [
+        "思想正确的人",
+        "思想正确"
+      ],
+      "en_query": [
+        "right-thinking person",
+        "right-thinking person"
+      ]
+    },
+    "raw_row": {
+      "tw": "思想正確的人",
+      "ch": "思想正确的人",
+      "en": "right-thinking person"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "同案被控人",
+      "ch": "同案被控人",
+      "en": "co-accused"
+    },
+    "query_variants": {
+      "tw_query": [
+        "同案被控人",
+        "同案被控"
+      ],
+      "ch_query": [
+        "同案被控人",
+        "同案被控"
+      ],
+      "en_query": [
+        "co-accused",
+        "co-accused"
+      ]
+    },
+    "raw_row": {
+      "tw": "同案被控人",
+      "ch": "同案被控人",
+      "en": "co-accused"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "捏造證據",
+      "ch": "捏造证据",
+      "en": "concoction"
+    },
+    "query_variants": {
+      "tw_query": [
+        "捏造證據"
+      ],
+      "ch_query": [
+        "捏造证据"
+      ],
+      "en_query": [
+        "concoction",
+        "concoction"
+      ]
+    },
+    "raw_row": {
+      "tw": "捏造證據",
+      "ch": "捏造证据",
+      "en": "concoction"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "良好品格指引",
+      "ch": "良好品格指引",
+      "en": "good character direction"
+    },
+    "query_variants": {
+      "tw_query": [
+        "良好品格指引",
+        "良好品格"
+      ],
+      "ch_query": [
+        "良好品格指引",
+        "良好品格"
+      ],
+      "en_query": [
+        "good character direction",
+        "good character direction"
+      ]
+    },
+    "raw_row": {
+      "tw": "良好品格指引",
+      "ch": "良好品格指引",
+      "en": "good character direction"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "以威脅促致他人作非法的性行為",
+      "ch": "以威胁促致他人作非法的性行为",
+      "en": "procurement by threats"
+    },
+    "query_variants": {
+      "tw_query": [
+        "以威脅促致他人作非法的性行為",
+        "以威脅促致他人作非法的性"
+      ],
+      "ch_query": [
+        "以威胁促致他人作非法的性行为",
+        "以威胁促致他人作非法的性"
+      ],
+      "en_query": [
+        "procurement by threats",
+        "procurement by threats",
+        "procurement by threat"
+      ]
+    },
+    "raw_row": {
+      "tw": "以威脅促致他人作非法的性行為",
+      "ch": "以威胁促致他人作非法的性行为",
+      "en": "procurement by threats"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "在未經宣誓的情況下……證據",
+      "ch": "在未经宣誓的情况下……证据",
+      "en": "unsworn evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "在未經宣誓的情況下……證據",
+        "在未經宣誓的情況下……"
+      ],
+      "ch_query": [
+        "在未经宣誓的情况下……证据",
+        "在未经宣誓的情况下……"
+      ],
+      "en_query": [
+        "unsworn evidence",
+        "unsworn evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "在未經宣誓的情況下……證據",
+      "ch": "在未经宣誓的情况下……证据",
+      "en": "unsworn evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有權採取適當行動的人",
+      "ch": "有权采取适当行动的人",
+      "en": "person who may have power to take appropriate action"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有權採取適當行動的人",
+        "有權採取適當行動"
+      ],
+      "ch_query": [
+        "有权采取适当行动的人",
+        "有权采取适当行动"
+      ],
+      "en_query": [
+        "person who may have power to take appropriate action",
+        "person who may have power to take appropriate action"
+      ]
+    },
+    "raw_row": {
+      "tw": "有權採取適當行動的人",
+      "ch": "有权采取适当行动的人",
+      "en": "person who may have power to take appropriate action"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "補缺規則",
+      "ch": "补缺规则",
+      "en": "mischief rule"
+    },
+    "query_variants": {
+      "tw_query": [
+        "補缺規則"
+      ],
+      "ch_query": [
+        "补缺规则"
+      ],
+      "en_query": [
+        "mischief rule",
+        "mischief rule"
+      ]
+    },
+    "raw_row": {
+      "tw": "補缺規則",
+      "ch": "补缺规则",
+      "en": "mischief rule"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "“法律不問瑣事”的原則",
+      "ch": "“法律不问琐事”的原则",
+      "en": "de minimis principle"
+    },
+    "query_variants": {
+      "tw_query": [
+        "“法律不問瑣事”的原則",
+        "“法律不問瑣事”的"
+      ],
+      "ch_query": [
+        "“法律不问琐事”的原则",
+        "“法律不问琐事”的"
+      ],
+      "en_query": [
+        "de minimis principle",
+        "de minimis principle"
+      ]
+    },
+    "raw_row": {
+      "tw": "“法律不問瑣事”的原則",
+      "ch": "“法律不问琐事”的原则",
+      "en": "de minimis principle"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不可信的辯護理由",
+      "ch": "不可信的辩护理由",
+      "en": "incredible defence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不可信的辯護理由",
+        "不可信的辯護"
+      ],
+      "ch_query": [
+        "不可信的辩护理由",
+        "不可信的辩护"
+      ],
+      "en_query": [
+        "incredible defence",
+        "incredible defence"
+      ]
+    },
+    "raw_row": {
+      "tw": "不可信的辯護理由",
+      "ch": "不可信的辩护理由",
+      "en": "incredible defence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "主審法院",
+      "ch": "主审法院",
+      "en": "court of trial"
+    },
+    "query_variants": {
+      "tw_query": [
+        "主審法院"
+      ],
+      "ch_query": [
+        "主审法院"
+      ],
+      "en_query": [
+        "court of trial",
+        "court of trial"
+      ]
+    },
+    "raw_row": {
+      "tw": "主審法院",
+      "ch": "主审法院",
+      "en": "court of trial"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "危害生命",
+      "ch": "危害生命",
+      "en": "endanger life"
+    },
+    "query_variants": {
+      "tw_query": [
+        "危害生命"
+      ],
+      "ch_query": [
+        "危害生命"
+      ],
+      "en_query": [
+        "endanger life",
+        "endanger life"
+      ]
+    },
+    "raw_row": {
+      "tw": "危害生命",
+      "ch": "危害生命",
+      "en": "endanger life"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "自我引導",
+      "ch": "自我引导",
+      "en": "self-direction"
+    },
+    "query_variants": {
+      "tw_query": [
+        "自我引導"
+      ],
+      "ch_query": [
+        "自我引导"
+      ],
+      "en_query": [
+        "self-direction",
+        "self-direction"
+      ]
+    },
+    "raw_row": {
+      "tw": "自我引導",
+      "ch": "自我引导",
+      "en": "self-direction"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "沒有足夠證據",
+      "ch": "没有足够证据",
+      "en": "insufficient evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "沒有足夠證據",
+        "沒有足夠"
+      ],
+      "ch_query": [
+        "没有足够证据",
+        "没有足够"
+      ],
+      "en_query": [
+        "insufficient evidence",
+        "insufficient evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "沒有足夠證據",
+      "ch": "没有足够证据",
+      "en": "insufficient evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "證物處理表",
+      "ch": "证物处理表",
+      "en": "Exhibits Disposal List"
+    },
+    "query_variants": {
+      "tw_query": [
+        "證物處理表",
+        "證物處理"
+      ],
+      "ch_query": [
+        "证物处理表",
+        "证物处理"
+      ],
+      "en_query": [
+        "Exhibits Disposal List",
+        "exhibits disposal list"
+      ]
+    },
+    "raw_row": {
+      "tw": "證物處理表",
+      "ch": "证物处理表",
+      "en": "Exhibits Disposal List"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "准予上訴",
+      "ch": "准予上诉",
+      "en": "leave to appeal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "准予上訴"
+      ],
+      "ch_query": [
+        "准予上诉"
+      ],
+      "en_query": [
+        "leave to appeal",
+        "leave to appeal"
+      ]
+    },
+    "raw_row": {
+      "tw": "准予上訴",
+      "ch": "准予上诉",
+      "en": "leave to appeal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "排除傳聞證據的原則",
+      "ch": "排除传闻证据的原则",
+      "en": "rule against hearsay"
+    },
+    "query_variants": {
+      "tw_query": [
+        "排除傳聞證據的原則",
+        "排除傳聞證據的"
+      ],
+      "ch_query": [
+        "排除传闻证据的原则",
+        "排除传闻证据的"
+      ],
+      "en_query": [
+        "rule against hearsay",
+        "rule against hearsay"
+      ]
+    },
+    "raw_row": {
+      "tw": "排除傳聞證據的原則",
+      "ch": "排除传闻证据的原则",
+      "en": "rule against hearsay"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "將串謀[計劃]付諸實行",
+      "ch": "将串谋[计划]付诸实行",
+      "en": "in furtherance of the conspiracy"
+    },
+    "query_variants": {
+      "tw_query": [
+        "將串謀[計劃]付諸實行",
+        "將串謀[計劃]付諸"
+      ],
+      "ch_query": [
+        "将串谋[计划]付诸实行",
+        "将串谋[计划]付诸"
+      ],
+      "en_query": [
+        "in furtherance of the conspiracy",
+        "in furtherance of the conspiracy"
+      ]
+    },
+    "raw_row": {
+      "tw": "將串謀[計劃]付諸實行",
+      "ch": "将串谋[计划]付诸实行",
+      "en": "in furtherance of the conspiracy"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "喪失理智",
+      "ch": "丧失理智",
+      "en": "defect of reason"
+    },
+    "query_variants": {
+      "tw_query": [
+        "喪失理智"
+      ],
+      "ch_query": [
+        "丧失理智"
+      ],
+      "en_query": [
+        "defect of reason",
+        "defect of reason"
+      ]
+    },
+    "raw_row": {
+      "tw": "喪失理智",
+      "ch": "丧失理智",
+      "en": "defect of reason"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "侮辱或不檢的行為",
+      "ch": "侮辱或不检的行为",
+      "en": "insulting or disorderly conduct"
+    },
+    "query_variants": {
+      "tw_query": [
+        "侮辱或不檢的行為",
+        "侮辱或不檢的"
+      ],
+      "ch_query": [
+        "侮辱或不检的行为",
+        "侮辱或不检的"
+      ],
+      "en_query": [
+        "insulting or disorderly conduct",
+        "insulting or disorderly conduct"
+      ]
+    },
+    "raw_row": {
+      "tw": "侮辱或不檢的行為",
+      "ch": "侮辱或不检的行为",
+      "en": "insulting or disorderly conduct"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "無可挽回的損害",
+      "ch": "无可挽回的损害",
+      "en": "irretrievable prejudice"
+    },
+    "query_variants": {
+      "tw_query": [
+        "無可挽回的損害",
+        "無可挽回的"
+      ],
+      "ch_query": [
+        "无可挽回的损害",
+        "无可挽回的"
+      ],
+      "en_query": [
+        "irretrievable prejudice",
+        "irretrievable prejudice"
+      ]
+    },
+    "raw_row": {
+      "tw": "無可挽回的損害",
+      "ch": "无可挽回的损害",
+      "en": "irretrievable prejudice"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "社會服務令報告",
+      "ch": "社会服务令报告",
+      "en": "community service order report"
+    },
+    "query_variants": {
+      "tw_query": [
+        "社會服務令報告",
+        "社會服務令"
+      ],
+      "ch_query": [
+        "社会服务令报告",
+        "社会服务令"
+      ],
+      "en_query": [
+        "community service order report",
+        "community service order report"
+      ]
+    },
+    "raw_row": {
+      "tw": "社會服務令報告",
+      "ch": "社会服务令报告",
+      "en": "community service order report"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "同案被告人",
+      "ch": "同案被告人",
+      "en": "co-defendant"
+    },
+    "query_variants": {
+      "tw_query": [
+        "同案被告人",
+        "同案被告"
+      ],
+      "ch_query": [
+        "同案被告人",
+        "同案被告"
+      ],
+      "en_query": [
+        "co-defendant",
+        "co-defendant"
+      ]
+    },
+    "raw_row": {
+      "tw": "同案被告人",
+      "ch": "同案被告人",
+      "en": "co-defendant"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "撤銷由律師代表",
+      "ch": "撤销由律师代表",
+      "en": "dismissal of counsel"
+    },
+    "query_variants": {
+      "tw_query": [
+        "撤銷由律師代表",
+        "撤銷由律師"
+      ],
+      "ch_query": [
+        "撤销由律师代表",
+        "撤销由律师"
+      ],
+      "en_query": [
+        "dismissal of counsel",
+        "dismissal of counsel"
+      ]
+    },
+    "raw_row": {
+      "tw": "撤銷由律師代表",
+      "ch": "撤销由律师代表",
+      "en": "dismissal of counsel"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "已為人接受的通常做法",
+      "ch": "已为人接受的通常做法",
+      "en": "accepted norm"
+    },
+    "query_variants": {
+      "tw_query": [
+        "已為人接受的通常做法",
+        "已為人接受的通常"
+      ],
+      "ch_query": [
+        "已为人接受的通常做法",
+        "已为人接受的通常"
+      ],
+      "en_query": [
+        "accepted norm",
+        "accepted norm"
+      ]
+    },
+    "raw_row": {
+      "tw": "已為人接受的通常做法",
+      "ch": "已为人接受的通常做法",
+      "en": "accepted norm"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "上訴通知書",
+      "ch": "上诉通知书",
+      "en": "notice of appeal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "上訴通知書",
+        "上訴通知"
+      ],
+      "ch_query": [
+        "上诉通知书",
+        "上诉通知"
+      ],
+      "en_query": [
+        "notice of appeal",
+        "notice of appeal"
+      ]
+    },
+    "raw_row": {
+      "tw": "上訴通知書",
+      "ch": "上诉通知书",
+      "en": "notice of appeal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "爭辯審訊",
+      "ch": "争辩审讯",
+      "en": "contested trial"
+    },
+    "query_variants": {
+      "tw_query": [
+        "爭辯審訊"
+      ],
+      "ch_query": [
+        "争辩审讯"
+      ],
+      "en_query": [
+        "contested trial",
+        "contested trial"
+      ]
+    },
+    "raw_row": {
+      "tw": "爭辯審訊",
+      "ch": "争辩审讯",
+      "en": "contested trial"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "定罪已失時效計劃",
+      "ch": "定罪已失时效计划",
+      "en": "spent conviction scheme"
+    },
+    "query_variants": {
+      "tw_query": [
+        "定罪已失時效計劃",
+        "定罪已失時效"
+      ],
+      "ch_query": [
+        "定罪已失时效计划",
+        "定罪已失时效"
+      ],
+      "en_query": [
+        "spent conviction scheme",
+        "spent conviction scheme"
+      ]
+    },
+    "raw_row": {
+      "tw": "定罪已失時效計劃",
+      "ch": "定罪已失时效计划",
+      "en": "spent conviction scheme"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "總體量刑起點",
+      "ch": "总体量刑起点",
+      "en": "overall starting point of sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "總體量刑起點",
+        "總體量刑"
+      ],
+      "ch_query": [
+        "总体量刑起点",
+        "总体量刑"
+      ],
+      "en_query": [
+        "overall starting point of sentence",
+        "overall starting point of sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "總體量刑起點",
+      "ch": "总体量刑起点",
+      "en": "overall starting point of sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "推翻……裁決",
+      "ch": "推翻……裁决",
+      "en": "reverse...verdict"
+    },
+    "query_variants": {
+      "tw_query": [
+        "推翻……裁決",
+        "推翻……"
+      ],
+      "ch_query": [
+        "推翻……裁决",
+        "推翻……"
+      ],
+      "en_query": [
+        "reverse...verdict",
+        "reverse...verdict"
+      ]
+    },
+    "raw_row": {
+      "tw": "推翻……裁決",
+      "ch": "推翻……裁决",
+      "en": "reverse...verdict"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "以查訊的方式進行",
+      "ch": "以查讯的方式进行",
+      "en": "inquisitorial approach"
+    },
+    "query_variants": {
+      "tw_query": [
+        "以查訊的方式進行",
+        "以查訊的方式"
+      ],
+      "ch_query": [
+        "以查讯的方式进行",
+        "以查讯的方式"
+      ],
+      "en_query": [
+        "inquisitorial approach",
+        "inquisitorial approach"
+      ]
+    },
+    "raw_row": {
+      "tw": "以查訊的方式進行",
+      "ch": "以查讯的方式进行",
+      "en": "inquisitorial approach"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "誠實地相信",
+      "ch": "诚实地相信",
+      "en": "belief ... honestly held"
+    },
+    "query_variants": {
+      "tw_query": [
+        "誠實地相信",
+        "誠實地相"
+      ],
+      "ch_query": [
+        "诚实地相信",
+        "诚实地相"
+      ],
+      "en_query": [
+        "belief ... honestly held",
+        "belief ... honestly held"
+      ]
+    },
+    "raw_row": {
+      "tw": "誠實地相信",
+      "ch": "诚实地相信",
+      "en": "belief ... honestly held"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "沒有爭議的案情",
+      "ch": "没有争议的案情",
+      "en": "undisputed facts"
+    },
+    "query_variants": {
+      "tw_query": [
+        "沒有爭議的案情",
+        "沒有爭議的"
+      ],
+      "ch_query": [
+        "没有争议的案情",
+        "没有争议的"
+      ],
+      "en_query": [
+        "undisputed facts",
+        "undisputed facts",
+        "undisputed fact"
+      ]
+    },
+    "raw_row": {
+      "tw": "沒有爭議的案情",
+      "ch": "没有争议的案情",
+      "en": "undisputed facts"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "公正無私的旁觀者",
+      "ch": "公正无私的旁观者",
+      "en": "impartial observer"
+    },
+    "query_variants": {
+      "tw_query": [
+        "公正無私的旁觀者",
+        "公正無私的旁"
+      ],
+      "ch_query": [
+        "公正无私的旁观者",
+        "公正无私的旁"
+      ],
+      "en_query": [
+        "impartial observer",
+        "impartial observer"
+      ]
+    },
+    "raw_row": {
+      "tw": "公正無私的旁觀者",
+      "ch": "公正无私的旁观者",
+      "en": "impartial observer"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有防止犯罪作用的司法措施",
+      "ch": "有防止犯罪作用的司法措施",
+      "en": "preventive justice"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有防止犯罪作用的司法措施",
+        "有防止犯罪作用的司法"
+      ],
+      "ch_query": [
+        "有防止犯罪作用的司法措施",
+        "有防止犯罪作用的司法"
+      ],
+      "en_query": [
+        "preventive justice",
+        "preventive justice"
+      ]
+    },
+    "raw_row": {
+      "tw": "有防止犯罪作用的司法措施",
+      "ch": "有防止犯罪作用的司法措施",
+      "en": "preventive justice"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "加重刑罰因素",
+      "ch": "加重刑罚因素",
+      "en": "aggravating feature"
+    },
+    "query_variants": {
+      "tw_query": [
+        "加重刑罰因素",
+        "加重刑罰"
+      ],
+      "ch_query": [
+        "加重刑罚因素",
+        "加重刑罚"
+      ],
+      "en_query": [
+        "aggravating feature",
+        "aggravating feature"
+      ]
+    },
+    "raw_row": {
+      "tw": "加重刑罰因素",
+      "ch": "加重刑罚因素",
+      "en": "aggravating feature"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "持械搶劫",
+      "ch": "持械抢劫",
+      "en": "armed robbery"
+    },
+    "query_variants": {
+      "tw_query": [
+        "持械搶劫"
+      ],
+      "ch_query": [
+        "持械抢劫"
+      ],
+      "en_query": [
+        "armed robbery",
+        "armed robbery"
+      ]
+    },
+    "raw_row": {
+      "tw": "持械搶劫",
+      "ch": "持械抢劫",
+      "en": "armed robbery"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "客觀的認知",
+      "ch": "客观的认知",
+      "en": "objective knowledge"
+    },
+    "query_variants": {
+      "tw_query": [
+        "客觀的認知",
+        "客觀的認"
+      ],
+      "ch_query": [
+        "客观的认知",
+        "客观的认"
+      ],
+      "en_query": [
+        "objective knowledge",
+        "objective knowledge"
+      ]
+    },
+    "raw_row": {
+      "tw": "客觀的認知",
+      "ch": "客观的认知",
+      "en": "objective knowledge"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "執行公義必須彰顯於人前",
+      "ch": "执行公义必须彰显于人前",
+      "en": "justice is done and is seen to be done"
+    },
+    "query_variants": {
+      "tw_query": [
+        "執行公義必須彰顯於人前",
+        "執行公義必須彰顯於"
+      ],
+      "ch_query": [
+        "执行公义必须彰显于人前",
+        "执行公义必须彰显于"
+      ],
+      "en_query": [
+        "justice is done and is seen to be done",
+        "justice is done and is seen to be done"
+      ]
+    },
+    "raw_row": {
+      "tw": "執行公義必須彰顯於人前",
+      "ch": "执行公义必须彰显于人前",
+      "en": "justice is done and is seen to be done"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "執行緩刑令",
+      "ch": "执行缓刑令",
+      "en": "order to activate a suspended sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "執行緩刑令",
+        "執行緩刑"
+      ],
+      "ch_query": [
+        "执行缓刑令",
+        "执行缓刑"
+      ],
+      "en_query": [
+        "order to activate a suspended sentence",
+        "order to activate a suspended sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "執行緩刑令",
+      "ch": "执行缓刑令",
+      "en": "order to activate a suspended sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "強制性終身監禁刑罰",
+      "ch": "强制性终身监禁刑罚",
+      "en": "mandatory life sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "強制性終身監禁刑罰",
+        "強制性終身監禁"
+      ],
+      "ch_query": [
+        "强制性终身监禁刑罚",
+        "强制性终身监禁"
+      ],
+      "en_query": [
+        "mandatory life sentence",
+        "mandatory life sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "強制性終身監禁刑罰",
+      "ch": "强制性终身监禁刑罚",
+      "en": "mandatory life sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "整體刑期的原則",
+      "ch": "整体刑期的原则",
+      "en": "principle of totality"
+    },
+    "query_variants": {
+      "tw_query": [
+        "整體刑期的原則",
+        "整體刑期的"
+      ],
+      "ch_query": [
+        "整体刑期的原则",
+        "整体刑期的"
+      ],
+      "en_query": [
+        "principle of totality",
+        "principle of totality"
+      ]
+    },
+    "raw_row": {
+      "tw": "整體刑期的原則",
+      "ch": "整体刑期的原则",
+      "en": "principle of totality"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "境外司法管轄權",
+      "ch": "境外司法管辖权",
+      "en": "extra-territorial jurisdiction"
+    },
+    "query_variants": {
+      "tw_query": [
+        "境外司法管轄權",
+        "境外司法管"
+      ],
+      "ch_query": [
+        "境外司法管辖权",
+        "境外司法管"
+      ],
+      "en_query": [
+        "extra-territorial jurisdiction",
+        "extra-territorial jurisdiction"
+      ]
+    },
+    "raw_row": {
+      "tw": "境外司法管轄權",
+      "ch": "境外司法管辖权",
+      "en": "extra-territorial jurisdiction"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "全面而真實地披露",
+      "ch": "全面而真实地披露",
+      "en": "full and true disclosure"
+    },
+    "query_variants": {
+      "tw_query": [
+        "全面而真實地披露",
+        "全面而真實地"
+      ],
+      "ch_query": [
+        "全面而真实地披露",
+        "全面而真实地"
+      ],
+      "en_query": [
+        "full and true disclosure",
+        "full and true disclosure"
+      ]
+    },
+    "raw_row": {
+      "tw": "全面而真實地披露",
+      "ch": "全面而真实地披露",
+      "en": "full and true disclosure"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "慫使和促致謀殺",
+      "ch": "怂使和促致谋杀",
+      "en": "counselling and procuring murder"
+    },
+    "query_variants": {
+      "tw_query": [
+        "慫使和促致謀殺",
+        "慫使和促致"
+      ],
+      "ch_query": [
+        "怂使和促致谋杀",
+        "怂使和促致"
+      ],
+      "en_query": [
+        "counselling and procuring murder",
+        "counselling and procuring murder"
+      ]
+    },
+    "raw_row": {
+      "tw": "慫使和促致謀殺",
+      "ch": "怂使和促致谋杀",
+      "en": "counselling and procuring murder"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不在犯罪現場",
+      "ch": "不在犯罪现场",
+      "en": "alibi"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不在犯罪現場",
+        "不在犯罪"
+      ],
+      "ch_query": [
+        "不在犯罪现场",
+        "不在犯罪"
+      ],
+      "en_query": [
+        "alibi",
+        "alibi"
+      ]
+    },
+    "raw_row": {
+      "tw": "不在犯罪現場",
+      "ch": "不在犯罪现场",
+      "en": "alibi"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "就幾乎必然發生的情況給予指引",
+      "ch": "就几乎必然发生的情况给予指引",
+      "en": "virtual certainty direction"
+    },
+    "query_variants": {
+      "tw_query": [
+        "就幾乎必然發生的情況給予指引",
+        "就幾乎必然發生的情況給予"
+      ],
+      "ch_query": [
+        "就几乎必然发生的情况给予指引",
+        "就几乎必然发生的情况给予"
+      ],
+      "en_query": [
+        "virtual certainty direction",
+        "virtual certainty direction"
+      ]
+    },
+    "raw_row": {
+      "tw": "就幾乎必然發生的情況給予指引",
+      "ch": "就几乎必然发生的情况给予指引",
+      "en": "virtual certainty direction"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "各方出席的聆訊",
+      "ch": "各方出席的聆讯",
+      "en": "inter-partes hearing"
+    },
+    "query_variants": {
+      "tw_query": [
+        "各方出席的聆訊",
+        "各方出席的"
+      ],
+      "ch_query": [
+        "各方出席的聆讯",
+        "各方出席的"
+      ],
+      "en_query": [
+        "inter-partes hearing",
+        "inter-partes hearing"
+      ]
+    },
+    "raw_row": {
+      "tw": "各方出席的聆訊",
+      "ch": "各方出席的聆讯",
+      "en": "inter-partes hearing"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "申請剔除上訴通知書",
+      "ch": "申请剔除上诉通知书",
+      "en": "application to strike out notice of appeal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "申請剔除上訴通知書",
+        "申請剔除上訴通"
+      ],
+      "ch_query": [
+        "申请剔除上诉通知书",
+        "申请剔除上诉通"
+      ],
+      "en_query": [
+        "application to strike out notice of appeal",
+        "application to strike out notice of appeal"
+      ]
+    },
+    "raw_row": {
+      "tw": "申請剔除上訴通知書",
+      "ch": "申请剔除上诉通知书",
+      "en": "application to strike out notice of appeal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "以聲稱擁有權利作為辯護",
+      "ch": "以声称拥有权利作为辩护",
+      "en": "defence of claim of right"
+    },
+    "query_variants": {
+      "tw_query": [
+        "以聲稱擁有權利作為辯護",
+        "以聲稱擁有權利作為"
+      ],
+      "ch_query": [
+        "以声称拥有权利作为辩护",
+        "以声称拥有权利作为"
+      ],
+      "en_query": [
+        "defence of claim of right",
+        "defence of claim of right"
+      ]
+    },
+    "raw_row": {
+      "tw": "以聲稱擁有權利作為辯護",
+      "ch": "以声称拥有权利作为辩护",
+      "en": "defence of claim of right"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "部分分期執行的刑期",
+      "ch": "部分分期执行的刑期",
+      "en": "partially consecutive sentences"
+    },
+    "query_variants": {
+      "tw_query": [
+        "部分分期執行的刑期",
+        "部分分期執行的"
+      ],
+      "ch_query": [
+        "部分分期执行的刑期",
+        "部分分期执行的"
+      ],
+      "en_query": [
+        "partially consecutive sentences",
+        "partially consecutive sentences",
+        "partially consecutive sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "部分分期執行的刑期",
+      "ch": "部分分期执行的刑期",
+      "en": "partially consecutive sentences"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "性格上無能力",
+      "ch": "性格上无能力",
+      "en": "disability of personality"
+    },
+    "query_variants": {
+      "tw_query": [
+        "性格上無能力",
+        "性格上無"
+      ],
+      "ch_query": [
+        "性格上无能力",
+        "性格上无"
+      ],
+      "en_query": [
+        "disability of personality",
+        "disability of personality"
+      ]
+    },
+    "raw_row": {
+      "tw": "性格上無能力",
+      "ch": "性格上无能力",
+      "en": "disability of personality"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "申訴人",
+      "ch": "申诉人",
+      "en": "complainant"
+    },
+    "query_variants": {
+      "tw_query": [
+        "申訴人"
+      ],
+      "ch_query": [
+        "申诉人"
+      ],
+      "en_query": [
+        "complainant",
+        "complainant"
+      ]
+    },
+    "raw_row": {
+      "tw": "申訴人",
+      "ch": "申诉人",
+      "en": "complainant"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "覆核訟費的評定",
+      "ch": "复核讼费的评定",
+      "en": "review of taxation of costs"
+    },
+    "query_variants": {
+      "tw_query": [
+        "覆核訟費的評定",
+        "覆核訟費的"
+      ],
+      "ch_query": [
+        "复核讼费的评定",
+        "复核讼费的"
+      ],
+      "en_query": [
+        "review of taxation of costs",
+        "review of taxation of costs",
+        "review of taxation of cost"
+      ]
+    },
+    "raw_row": {
+      "tw": "覆核訟費的評定",
+      "ch": "复核讼费的评定",
+      "en": "review of taxation of costs"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "列隊認人手續",
+      "ch": "列队认人手续",
+      "en": "identification parades"
+    },
+    "query_variants": {
+      "tw_query": [
+        "列隊認人手續",
+        "列隊認人"
+      ],
+      "ch_query": [
+        "列队认人手续",
+        "列队认人"
+      ],
+      "en_query": [
+        "identification parades",
+        "identification parades",
+        "identification parade"
+      ]
+    },
+    "raw_row": {
+      "tw": "列隊認人手續",
+      "ch": "列队认人手续",
+      "en": "identification parades"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有力……的推定",
+      "ch": "有力……的推定",
+      "en": "strong ... presumption"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有力……的推定",
+        "有力……的"
+      ],
+      "ch_query": [
+        "有力……的推定",
+        "有力……的"
+      ],
+      "en_query": [
+        "strong ... presumption",
+        "strong ... presumption"
+      ]
+    },
+    "raw_row": {
+      "tw": "有力……的推定",
+      "ch": "有力……的推定",
+      "en": "strong ... presumption"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "一系列相關的典據",
+      "ch": "一系列相关的典据",
+      "en": "line of authorities"
+    },
+    "query_variants": {
+      "tw_query": [
+        "一系列相關的典據",
+        "一系列相關的"
+      ],
+      "ch_query": [
+        "一系列相关的典据",
+        "一系列相关的"
+      ],
+      "en_query": [
+        "line of authorities",
+        "line of authorities",
+        "line of authoritie"
+      ]
+    },
+    "raw_row": {
+      "tw": "一系列相關的典據",
+      "ch": "一系列相关的典据",
+      "en": "line of authorities"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不爭事實",
+      "ch": "不争事实",
+      "en": "facts not in dispute"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不爭事實"
+      ],
+      "ch_query": [
+        "不争事实"
+      ],
+      "en_query": [
+        "facts not in dispute",
+        "facts not in dispute"
+      ]
+    },
+    "raw_row": {
+      "tw": "不爭事實",
+      "ch": "不争事实",
+      "en": "facts not in dispute"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "住宅爆竊案",
+      "ch": "住宅爆窃案",
+      "en": "domestic burglary"
+    },
+    "query_variants": {
+      "tw_query": [
+        "住宅爆竊案",
+        "住宅爆竊"
+      ],
+      "ch_query": [
+        "住宅爆窃案",
+        "住宅爆窃"
+      ],
+      "en_query": [
+        "domestic burglary",
+        "domestic burglary"
+      ]
+    },
+    "raw_row": {
+      "tw": "住宅爆竊案",
+      "ch": "住宅爆窃案",
+      "en": "domestic burglary"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "獨立無私之法定管轄法庭",
+      "ch": "独立无私之法定管辖法庭",
+      "en": "competent, independent and impartial tribunal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "獨立無私之法定管轄法庭",
+        "獨立無私之法定管轄"
+      ],
+      "ch_query": [
+        "独立无私之法定管辖法庭",
+        "独立无私之法定管辖"
+      ],
+      "en_query": [
+        "competent, independent and impartial tribunal",
+        "competent, independent and impartial tribunal"
+      ]
+    },
+    "raw_row": {
+      "tw": "獨立無私之法定管轄法庭",
+      "ch": "独立无私之法定管辖法庭",
+      "en": "competent, independent and impartial tribunal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "辯方證據",
+      "ch": "辩方证据",
+      "en": "defence evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "辯方證據"
+      ],
+      "ch_query": [
+        "辩方证据"
+      ],
+      "en_query": [
+        "defence evidence",
+        "defence evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "辯方證據",
+      "ch": "辩方证据",
+      "en": "defence evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "違反遞解離境令",
+      "ch": "违反递解离境令",
+      "en": "breach of deportation order"
+    },
+    "query_variants": {
+      "tw_query": [
+        "違反遞解離境令",
+        "違反遞解離"
+      ],
+      "ch_query": [
+        "违反递解离境令",
+        "违反递解离"
+      ],
+      "en_query": [
+        "breach of deportation order",
+        "breach of deportation order"
+      ]
+    },
+    "raw_row": {
+      "tw": "違反遞解離境令",
+      "ch": "违反递解离境令",
+      "en": "breach of deportation order"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "及早認罪",
+      "ch": "及早认罪",
+      "en": "early plea"
+    },
+    "query_variants": {
+      "tw_query": [
+        "及早認罪"
+      ],
+      "ch_query": [
+        "及早认罪"
+      ],
+      "en_query": [
+        "early plea",
+        "early plea"
+      ]
+    },
+    "raw_row": {
+      "tw": "及早認罪",
+      "ch": "及早认罪",
+      "en": "early plea"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "指模證據",
+      "ch": "指模证据",
+      "en": "fingerprint evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "指模證據"
+      ],
+      "ch_query": [
+        "指模证据"
+      ],
+      "en_query": [
+        "fingerprint evidence",
+        "fingerprint evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "指模證據",
+      "ch": "指模证据",
+      "en": "fingerprint evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "原則上犯錯",
+      "ch": "原则上犯错",
+      "en": "err in principle"
+    },
+    "query_variants": {
+      "tw_query": [
+        "原則上犯錯",
+        "原則上犯"
+      ],
+      "ch_query": [
+        "原则上犯错",
+        "原则上犯"
+      ],
+      "en_query": [
+        "err in principle",
+        "err in principle"
+      ]
+    },
+    "raw_row": {
+      "tw": "原則上犯錯",
+      "ch": "原则上犯错",
+      "en": "err in principle"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "補救性的詮釋",
+      "ch": "补救性的诠释",
+      "en": "remedial construction"
+    },
+    "query_variants": {
+      "tw_query": [
+        "補救性的詮釋",
+        "補救性的"
+      ],
+      "ch_query": [
+        "补救性的诠释",
+        "补救性的"
+      ],
+      "en_query": [
+        "remedial construction",
+        "remedial construction"
+      ]
+    },
+    "raw_row": {
+      "tw": "補救性的詮釋",
+      "ch": "补救性的诠释",
+      "en": "remedial construction"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "最低判刑級別",
+      "ch": "最低判刑级别",
+      "en": "lowest band"
+    },
+    "query_variants": {
+      "tw_query": [
+        "最低判刑級別",
+        "最低判刑"
+      ],
+      "ch_query": [
+        "最低判刑级别",
+        "最低判刑"
+      ],
+      "en_query": [
+        "lowest band",
+        "lowest band"
+      ]
+    },
+    "raw_row": {
+      "tw": "最低判刑級別",
+      "ch": "最低判刑级别",
+      "en": "lowest band"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "投注者",
+      "ch": "投注者",
+      "en": "punter"
+    },
+    "query_variants": {
+      "tw_query": [
+        "投注者"
+      ],
+      "ch_query": [
+        "投注者"
+      ],
+      "en_query": [
+        "punter",
+        "punter"
+      ]
+    },
+    "raw_row": {
+      "tw": "投注者",
+      "ch": "投注者",
+      "en": "punter"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "壓迫性的問題",
+      "ch": "压迫性的问题",
+      "en": "oppressive question"
+    },
+    "query_variants": {
+      "tw_query": [
+        "壓迫性的問題",
+        "壓迫性的"
+      ],
+      "ch_query": [
+        "压迫性的问题",
+        "压迫性的"
+      ],
+      "en_query": [
+        "oppressive question",
+        "oppressive question"
+      ]
+    },
+    "raw_row": {
+      "tw": "壓迫性的問題",
+      "ch": "压迫性的问题",
+      "en": "oppressive question"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "自知有罪",
+      "ch": "自知有罪",
+      "en": "realisation of guilt"
+    },
+    "query_variants": {
+      "tw_query": [
+        "自知有罪"
+      ],
+      "ch_query": [
+        "自知有罪"
+      ],
+      "en_query": [
+        "realisation of guilt",
+        "realisation of guilt"
+      ]
+    },
+    "raw_row": {
+      "tw": "自知有罪",
+      "ch": "自知有罪",
+      "en": "realisation of guilt"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不認罪的答辯",
+      "ch": "不认罪的答辩",
+      "en": "plea of not guilty"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不認罪的答辯",
+        "不認罪的"
+      ],
+      "ch_query": [
+        "不认罪的答辩",
+        "不认罪的"
+      ],
+      "en_query": [
+        "plea of not guilty",
+        "plea of not guilty"
+      ]
+    },
+    "raw_row": {
+      "tw": "不認罪的答辯",
+      "ch": "不认罪的答辩",
+      "en": "plea of not guilty"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "科學鑑證",
+      "ch": "科学鉴证",
+      "en": "forensic examination"
+    },
+    "query_variants": {
+      "tw_query": [
+        "科學鑑證"
+      ],
+      "ch_query": [
+        "科学鉴证"
+      ],
+      "en_query": [
+        "forensic examination",
+        "forensic examination"
+      ]
+    },
+    "raw_row": {
+      "tw": "科學鑑證",
+      "ch": "科学鉴证",
+      "en": "forensic examination"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "主要的成因",
+      "ch": "主要的成因",
+      "en": "operative cause"
+    },
+    "query_variants": {
+      "tw_query": [
+        "主要的成因",
+        "主要的成"
+      ],
+      "ch_query": [
+        "主要的成因",
+        "主要的成"
+      ],
+      "en_query": [
+        "operative cause",
+        "operative cause"
+      ]
+    },
+    "raw_row": {
+      "tw": "主要的成因",
+      "ch": "主要的成因",
+      "en": "operative cause"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "虛假聲明",
+      "ch": "虚假声明",
+      "en": "false declaration"
+    },
+    "query_variants": {
+      "tw_query": [
+        "虛假聲明"
+      ],
+      "ch_query": [
+        "虚假声明"
+      ],
+      "en_query": [
+        "false declaration",
+        "false declaration"
+      ]
+    },
+    "raw_row": {
+      "tw": "虛假聲明",
+      "ch": "虚假声明",
+      "en": "false declaration"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "投注人",
+      "ch": "投注人",
+      "en": "punter"
+    },
+    "query_variants": {
+      "tw_query": [
+        "投注人"
+      ],
+      "ch_query": [
+        "投注人"
+      ],
+      "en_query": [
+        "punter",
+        "punter"
+      ]
+    },
+    "raw_row": {
+      "tw": "投注人",
+      "ch": "投注人",
+      "en": "punter"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不針對……舉出證據",
+      "ch": "不针对……举出证据",
+      "en": "offer no evidence against ..."
+    },
+    "query_variants": {
+      "tw_query": [
+        "不針對……舉出證據",
+        "不針對……舉出"
+      ],
+      "ch_query": [
+        "不针对……举出证据",
+        "不针对……举出"
+      ],
+      "en_query": [
+        "offer no evidence against ...",
+        "offer no evidence against ..."
+      ]
+    },
+    "raw_row": {
+      "tw": "不針對……舉出證據",
+      "ch": "不针对……举出证据",
+      "en": "offer no evidence against ..."
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "舉證的準則",
+      "ch": "举证的准则",
+      "en": "standard of proof"
+    },
+    "query_variants": {
+      "tw_query": [
+        "舉證的準則",
+        "舉證的準"
+      ],
+      "ch_query": [
+        "举证的准则",
+        "举证的准"
+      ],
+      "en_query": [
+        "standard of proof",
+        "standard of proof"
+      ]
+    },
+    "raw_row": {
+      "tw": "舉證的準則",
+      "ch": "举证的准则",
+      "en": "standard of proof"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "較低舉證準則",
+      "ch": "较低举证准则",
+      "en": "lower standard of proof"
+    },
+    "query_variants": {
+      "tw_query": [
+        "較低舉證準則",
+        "較低舉證"
+      ],
+      "ch_query": [
+        "较低举证准则",
+        "较低举证"
+      ],
+      "en_query": [
+        "lower standard of proof",
+        "lower standard of proof"
+      ]
+    },
+    "raw_row": {
+      "tw": "較低舉證準則",
+      "ch": "较低举证准则",
+      "en": "lower standard of proof"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "瞬間的接觸",
+      "ch": "瞬间的接触",
+      "en": "fleeting encounter"
+    },
+    "query_variants": {
+      "tw_query": [
+        "瞬間的接觸",
+        "瞬間的接"
+      ],
+      "ch_query": [
+        "瞬间的接触",
+        "瞬间的接"
+      ],
+      "en_query": [
+        "fleeting encounter",
+        "fleeting encounter"
+      ]
+    },
+    "raw_row": {
+      "tw": "瞬間的接觸",
+      "ch": "瞬间的接触",
+      "en": "fleeting encounter"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "一開始",
+      "ch": "一开始",
+      "en": "ab initio"
+    },
+    "query_variants": {
+      "tw_query": [
+        "一開始"
+      ],
+      "ch_query": [
+        "一开始"
+      ],
+      "en_query": [
+        "ab initio",
+        "ab initio"
+      ]
+    },
+    "raw_row": {
+      "tw": "一開始",
+      "ch": "一开始",
+      "en": "ab initio"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "瞬間一望",
+      "ch": "瞬间一望",
+      "en": "fleeting glance"
+    },
+    "query_variants": {
+      "tw_query": [
+        "瞬間一望"
+      ],
+      "ch_query": [
+        "瞬间一望"
+      ],
+      "en_query": [
+        "fleeting glance",
+        "fleeting glance"
+      ]
+    },
+    "raw_row": {
+      "tw": "瞬間一望",
+      "ch": "瞬间一望",
+      "en": "fleeting glance"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不誠實地意圖導致他人蒙受損失",
+      "ch": "不诚实地意图导致他人蒙受损失",
+      "en": "dishonest intent to cause loss to another"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不誠實地意圖導致他人蒙受損失",
+        "不誠實地意圖導致他人蒙受"
+      ],
+      "ch_query": [
+        "不诚实地意图导致他人蒙受损失",
+        "不诚实地意图导致他人蒙受"
+      ],
+      "en_query": [
+        "dishonest intent to cause loss to another",
+        "dishonest intent to cause loss to another"
+      ]
+    },
+    "raw_row": {
+      "tw": "不誠實地意圖導致他人蒙受損失",
+      "ch": "不诚实地意图导致他人蒙受损失",
+      "en": "dishonest intent to cause loss to another"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "誠實的證人",
+      "ch": "诚实的证人",
+      "en": "honest witness"
+    },
+    "query_variants": {
+      "tw_query": [
+        "誠實的證人",
+        "誠實的證"
+      ],
+      "ch_query": [
+        "诚实的证人",
+        "诚实的证"
+      ],
+      "en_query": [
+        "honest witness",
+        "honest witness",
+        "honest witnes"
+      ]
+    },
+    "raw_row": {
+      "tw": "誠實的證人",
+      "ch": "诚实的证人",
+      "en": "honest witness"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "量刑基準",
+      "ch": "量刑基准",
+      "en": "sentencing tariff"
+    },
+    "query_variants": {
+      "tw_query": [
+        "量刑基準"
+      ],
+      "ch_query": [
+        "量刑基准"
+      ],
+      "en_query": [
+        "sentencing tariff",
+        "sentencing tariff"
+      ]
+    },
+    "raw_row": {
+      "tw": "量刑基準",
+      "ch": "量刑基准",
+      "en": "sentencing tariff"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "以不在犯罪現場為辯護理由",
+      "ch": "以不在犯罪现场为辩护理由",
+      "en": "defence of alibi"
+    },
+    "query_variants": {
+      "tw_query": [
+        "以不在犯罪現場為辯護理由",
+        "以不在犯罪現場為辯護"
+      ],
+      "ch_query": [
+        "以不在犯罪现场为辩护理由",
+        "以不在犯罪现场为辩护"
+      ],
+      "en_query": [
+        "defence of alibi",
+        "defence of alibi"
+      ]
+    },
+    "raw_row": {
+      "tw": "以不在犯罪現場為辯護理由",
+      "ch": "以不在犯罪现场为辩护理由",
+      "en": "defence of alibi"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "隱含危機",
+      "ch": "隐含危机",
+      "en": "latent risk"
+    },
+    "query_variants": {
+      "tw_query": [
+        "隱含危機"
+      ],
+      "ch_query": [
+        "隐含危机"
+      ],
+      "en_query": [
+        "latent risk",
+        "latent risk"
+      ]
+    },
+    "raw_row": {
+      "tw": "隱含危機",
+      "ch": "隐含危机",
+      "en": "latent risk"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "法定串謀罪",
+      "ch": "法定串谋罪",
+      "en": "statutory conspiracy"
+    },
+    "query_variants": {
+      "tw_query": [
+        "法定串謀罪",
+        "法定串謀"
+      ],
+      "ch_query": [
+        "法定串谋罪",
+        "法定串谋"
+      ],
+      "en_query": [
+        "statutory conspiracy",
+        "statutory conspiracy"
+      ]
+    },
+    "raw_row": {
+      "tw": "法定串謀罪",
+      "ch": "法定串谋罪",
+      "en": "statutory conspiracy"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "證據上的……衝突",
+      "ch": "证据上的……冲突",
+      "en": "conflict of evidence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "證據上的……衝突",
+        "證據上的……"
+      ],
+      "ch_query": [
+        "证据上的……冲突",
+        "证据上的……"
+      ],
+      "en_query": [
+        "conflict of evidence",
+        "conflict of evidence"
+      ]
+    },
+    "raw_row": {
+      "tw": "證據上的……衝突",
+      "ch": "证据上的……冲突",
+      "en": "conflict of evidence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "酌情性終身監禁刑罰",
+      "ch": "酌情性终身监禁刑罚",
+      "en": "discretionary life sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "酌情性終身監禁刑罰",
+        "酌情性終身監禁"
+      ],
+      "ch_query": [
+        "酌情性终身监禁刑罚",
+        "酌情性终身监禁"
+      ],
+      "en_query": [
+        "discretionary life sentence",
+        "discretionary life sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "酌情性終身監禁刑罰",
+      "ch": "酌情性终身监禁刑罚",
+      "en": "discretionary life sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "宣誓人",
+      "ch": "宣誓人",
+      "en": "deponent"
+    },
+    "query_variants": {
+      "tw_query": [
+        "宣誓人"
+      ],
+      "ch_query": [
+        "宣誓人"
+      ],
+      "en_query": [
+        "deponent",
+        "deponent"
+      ]
+    },
+    "raw_row": {
+      "tw": "宣誓人",
+      "ch": "宣誓人",
+      "en": "deponent"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "串謀綁架",
+      "ch": "串谋绑架",
+      "en": "conspiracy to kidnap"
+    },
+    "query_variants": {
+      "tw_query": [
+        "串謀綁架"
+      ],
+      "ch_query": [
+        "串谋绑架"
+      ],
+      "en_query": [
+        "conspiracy to kidnap",
+        "conspiracy to kidnap"
+      ]
+    },
+    "raw_row": {
+      "tw": "串謀綁架",
+      "ch": "串谋绑架",
+      "en": "conspiracy to kidnap"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "永久擱置法律程序",
+      "ch": "永久搁置法律程序",
+      "en": "permanent stay of proceedings"
+    },
+    "query_variants": {
+      "tw_query": [
+        "永久擱置法律程序",
+        "永久擱置法律"
+      ],
+      "ch_query": [
+        "永久搁置法律程序",
+        "永久搁置法律"
+      ],
+      "en_query": [
+        "permanent stay of proceedings",
+        "permanent stay of proceedings",
+        "permanent stay of proceeding"
+      ]
+    },
+    "raw_row": {
+      "tw": "永久擱置法律程序",
+      "ch": "永久搁置法律程序",
+      "en": "permanent stay of proceedings"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "重疊刑罰",
+      "ch": "重迭刑罚",
+      "en": "overlapping sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "重疊刑罰"
+      ],
+      "ch_query": [
+        "重迭刑罚"
+      ],
+      "en_query": [
+        "overlapping sentence",
+        "overlapping sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "重疊刑罰",
+      "ch": "重迭刑罚",
+      "en": "overlapping sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "完備上訴理由",
+      "ch": "完备上诉理由",
+      "en": "perfected grounds of appeal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "完備上訴理由",
+        "完備上訴"
+      ],
+      "ch_query": [
+        "完备上诉理由",
+        "完备上诉"
+      ],
+      "en_query": [
+        "perfected grounds of appeal",
+        "perfected grounds of appeal"
+      ]
+    },
+    "raw_row": {
+      "tw": "完備上訴理由",
+      "ch": "完备上诉理由",
+      "en": "perfected grounds of appeal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "犯罪手法",
+      "ch": "犯罪手法",
+      "en": "modus operandi"
+    },
+    "query_variants": {
+      "tw_query": [
+        "犯罪手法"
+      ],
+      "ch_query": [
+        "犯罪手法"
+      ],
+      "en_query": [
+        "modus operandi",
+        "modus operandi"
+      ]
+    },
+    "raw_row": {
+      "tw": "犯罪手法",
+      "ch": "犯罪手法",
+      "en": "modus operandi"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "慣常判刑",
+      "ch": "惯常判刑",
+      "en": "customary sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "慣常判刑"
+      ],
+      "ch_query": [
+        "惯常判刑"
+      ],
+      "en_query": [
+        "customary sentence",
+        "customary sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "慣常判刑",
+      "ch": "惯常判刑",
+      "en": "customary sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "就謊言的全面指引",
+      "ch": "就谎言的全面指引",
+      "en": "full lies direction"
+    },
+    "query_variants": {
+      "tw_query": [
+        "就謊言的全面指引",
+        "就謊言的全面"
+      ],
+      "ch_query": [
+        "就谎言的全面指引",
+        "就谎言的全面"
+      ],
+      "en_query": [
+        "full lies direction",
+        "full lies direction"
+      ]
+    },
+    "raw_row": {
+      "tw": "就謊言的全面指引",
+      "ch": "就谎言的全面指引",
+      "en": "full lies direction"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "開脫罪責部分",
+      "ch": "开脱罪责部分",
+      "en": "exculpatory part"
+    },
+    "query_variants": {
+      "tw_query": [
+        "開脫罪責部分",
+        "開脫罪責"
+      ],
+      "ch_query": [
+        "开脱罪责部分",
+        "开脱罪责"
+      ],
+      "en_query": [
+        "exculpatory part",
+        "exculpatory part"
+      ]
+    },
+    "raw_row": {
+      "tw": "開脫罪責部分",
+      "ch": "开脱罪责部分",
+      "en": "exculpatory part"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "違反保釋條件",
+      "ch": "违反保释条件",
+      "en": "breach of bail condition"
+    },
+    "query_variants": {
+      "tw_query": [
+        "違反保釋條件",
+        "違反保釋"
+      ],
+      "ch_query": [
+        "违反保释条件",
+        "违反保释"
+      ],
+      "en_query": [
+        "breach of bail condition",
+        "breach of bail condition"
+      ]
+    },
+    "raw_row": {
+      "tw": "違反保釋條件",
+      "ch": "违反保释条件",
+      "en": "breach of bail condition"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "案情撮要",
+      "ch": "案情撮要",
+      "en": "summary of facts"
+    },
+    "query_variants": {
+      "tw_query": [
+        "案情撮要"
+      ],
+      "ch_query": [
+        "案情撮要"
+      ],
+      "en_query": [
+        "summary of facts",
+        "summary of facts",
+        "summary of fact"
+      ]
+    },
+    "raw_row": {
+      "tw": "案情撮要",
+      "ch": "案情撮要",
+      "en": "summary of facts"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "駁回控罪",
+      "ch": "驳回控罪",
+      "en": "dismiss the charge"
+    },
+    "query_variants": {
+      "tw_query": [
+        "駁回控罪"
+      ],
+      "ch_query": [
+        "驳回控罪"
+      ],
+      "en_query": [
+        "dismiss the charge",
+        "dismiss the charge"
+      ]
+    },
+    "raw_row": {
+      "tw": "駁回控罪",
+      "ch": "驳回控罪",
+      "en": "dismiss the charge"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "在反駁時",
+      "ch": "在反驳时",
+      "en": "in rebuttal"
+    },
+    "query_variants": {
+      "tw_query": [
+        "在反駁時"
+      ],
+      "ch_query": [
+        "在反驳时"
+      ],
+      "en_query": [
+        "in rebuttal",
+        "in rebuttal"
+      ]
+    },
+    "raw_row": {
+      "tw": "在反駁時",
+      "ch": "在反驳时",
+      "en": "in rebuttal"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "交替程序",
+      "ch": "交替程序",
+      "en": "alternative procedure"
+    },
+    "query_variants": {
+      "tw_query": [
+        "交替程序"
+      ],
+      "ch_query": [
+        "交替程序"
+      ],
+      "en_query": [
+        "alternative procedure",
+        "alternative procedure"
+      ]
+    },
+    "raw_row": {
+      "tw": "交替程序",
+      "ch": "交替程序",
+      "en": "alternative procedure"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "控罪不得包含多項罪行的原則",
+      "ch": "控罪不得包含多项罪行的原则",
+      "en": "rule against duplicity"
+    },
+    "query_variants": {
+      "tw_query": [
+        "控罪不得包含多項罪行的原則",
+        "控罪不得包含多項罪行的"
+      ],
+      "ch_query": [
+        "控罪不得包含多项罪行的原则",
+        "控罪不得包含多项罪行的"
+      ],
+      "en_query": [
+        "rule against duplicity",
+        "rule against duplicity"
+      ]
+    },
+    "raw_row": {
+      "tw": "控罪不得包含多項罪行的原則",
+      "ch": "控罪不得包含多项罪行的原则",
+      "en": "rule against duplicity"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "先前的刑期",
+      "ch": "先前的刑期",
+      "en": "pre-existing sentence"
+    },
+    "query_variants": {
+      "tw_query": [
+        "先前的刑期",
+        "先前的刑"
+      ],
+      "ch_query": [
+        "先前的刑期",
+        "先前的刑"
+      ],
+      "en_query": [
+        "pre-existing sentence",
+        "pre-existing sentence"
+      ]
+    },
+    "raw_row": {
+      "tw": "先前的刑期",
+      "ch": "先前的刑期",
+      "en": "pre-existing sentence"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "棄保潛逃",
+      "ch": "弃保潜逃",
+      "en": "abscond from bail"
+    },
+    "query_variants": {
+      "tw_query": [
+        "棄保潛逃"
+      ],
+      "ch_query": [
+        "弃保潜逃"
+      ],
+      "en_query": [
+        "abscond from bail",
+        "abscond from bail"
+      ]
+    },
+    "raw_row": {
+      "tw": "棄保潛逃",
+      "ch": "弃保潜逃",
+      "en": "abscond from bail"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "不可推翻的推論",
+      "ch": "不可推翻的推论",
+      "en": "irrebuttable inference"
+    },
+    "query_variants": {
+      "tw_query": [
+        "不可推翻的推論",
+        "不可推翻的"
+      ],
+      "ch_query": [
+        "不可推翻的推论",
+        "不可推翻的"
+      ],
+      "en_query": [
+        "irrebuttable inference",
+        "irrebuttable inference"
+      ]
+    },
+    "raw_row": {
+      "tw": "不可推翻的推論",
+      "ch": "不可推翻的推论",
+      "en": "irrebuttable inference"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "虛假聲稱",
+      "ch": "虚假声称",
+      "en": "false claim"
+    },
+    "query_variants": {
+      "tw_query": [
+        "虛假聲稱"
+      ],
+      "ch_query": [
+        "虚假声称"
+      ],
+      "en_query": [
+        "false claim",
+        "false claim"
+      ]
+    },
+    "raw_row": {
+      "tw": "虛假聲稱",
+      "ch": "虚假声称",
+      "en": "false claim"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "自我引導",
+      "ch": "自我引导",
+      "en": "self-direction"
+    },
+    "query_variants": {
+      "tw_query": [
+        "自我引導"
+      ],
+      "ch_query": [
+        "自我引导"
+      ],
+      "en_query": [
+        "self-direction",
+        "self-direction"
+      ]
+    },
+    "raw_row": {
+      "tw": "自我引導",
+      "ch": "自我引导",
+      "en": "self-direction"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "更高的刑責",
+      "ch": "更高的刑责",
+      "en": "greater degree of criminality"
+    },
+    "query_variants": {
+      "tw_query": [
+        "更高的刑責",
+        "更高的刑"
+      ],
+      "ch_query": [
+        "更高的刑责",
+        "更高的刑"
+      ],
+      "en_query": [
+        "greater degree of criminality",
+        "greater degree of criminality"
+      ]
+    },
+    "raw_row": {
+      "tw": "更高的刑責",
+      "ch": "更高的刑责",
+      "en": "greater degree of criminality"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "摧毀或損壞財產",
+      "ch": "摧毁或损坏财产",
+      "en": "destroy or damage property"
+    },
+    "query_variants": {
+      "tw_query": [
+        "摧毀或損壞財產",
+        "摧毀或損壞"
+      ],
+      "ch_query": [
+        "摧毁或损坏财产",
+        "摧毁或损坏"
+      ],
+      "en_query": [
+        "destroy or damage property",
+        "destroy or damage property"
+      ]
+    },
+    "raw_row": {
+      "tw": "摧毀或損壞財產",
+      "ch": "摧毁或损坏财产",
+      "en": "destroy or damage property"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "單一名法官",
+      "ch": "单一名法官",
+      "en": "single judge"
+    },
+    "query_variants": {
+      "tw_query": [
+        "單一名法官",
+        "單一名法"
+      ],
+      "ch_query": [
+        "单一名法官",
+        "单一名法"
+      ],
+      "en_query": [
+        "single judge",
+        "single judge"
+      ]
+    },
+    "raw_row": {
+      "tw": "單一名法官",
+      "ch": "单一名法官",
+      "en": "single judge"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "推定管有",
+      "ch": "推定管有",
+      "en": "constructive possession"
+    },
+    "query_variants": {
+      "tw_query": [
+        "推定管有"
+      ],
+      "ch_query": [
+        "推定管有"
+      ],
+      "en_query": [
+        "constructive possession",
+        "constructive possession"
+      ]
+    },
+    "raw_row": {
+      "tw": "推定管有",
+      "ch": "推定管有",
+      "en": "constructive possession"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "程序上不當之處",
+      "ch": "程序上不当之处",
+      "en": "procedural irregularity"
+    },
+    "query_variants": {
+      "tw_query": [
+        "程序上不當之處",
+        "程序上不當"
+      ],
+      "ch_query": [
+        "程序上不当之处",
+        "程序上不当"
+      ],
+      "en_query": [
+        "procedural irregularity",
+        "procedural irregularity"
+      ]
+    },
+    "raw_row": {
+      "tw": "程序上不當之處",
+      "ch": "程序上不当之处",
+      "en": "procedural irregularity"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "第一環節",
+      "ch": "第一环节",
+      "en": "first limb"
+    },
+    "query_variants": {
+      "tw_query": [
+        "第一環節"
+      ],
+      "ch_query": [
+        "第一环节"
+      ],
+      "en_query": [
+        "first limb",
+        "first limb"
+      ]
+    },
+    "raw_row": {
+      "tw": "第一環節",
+      "ch": "第一环节",
+      "en": "first limb"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "短暫、嚴峻、震驚的刑罰",
+      "ch": "短暂、严峻、震惊的刑罚",
+      "en": "short, sharp, shock treatment"
+    },
+    "query_variants": {
+      "tw_query": [
+        "短暫、嚴峻、震驚的刑罰",
+        "短暫、嚴峻、震驚的"
+      ],
+      "ch_query": [
+        "短暂、严峻、震惊的刑罚",
+        "短暂、严峻、震惊的"
+      ],
+      "en_query": [
+        "short, sharp, shock treatment",
+        "short, sharp, shock treatment"
+      ]
+    },
+    "raw_row": {
+      "tw": "短暫、嚴峻、震驚的刑罰",
+      "ch": "短暂、严峻、震惊的刑罚",
+      "en": "short, sharp, shock treatment"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "自簽擔保",
+      "ch": "自签担保",
+      "en": "enter into ... recognizance"
+    },
+    "query_variants": {
+      "tw_query": [
+        "自簽擔保"
+      ],
+      "ch_query": [
+        "自签担保"
+      ],
+      "en_query": [
+        "enter into ... recognizance",
+        "enter into ... recognizance"
+      ]
+    },
+    "raw_row": {
+      "tw": "自簽擔保",
+      "ch": "自签担保",
+      "en": "enter into ... recognizance"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "口述判詞",
+      "ch": "口述判词",
+      "en": "oral judgment"
+    },
+    "query_variants": {
+      "tw_query": [
+        "口述判詞"
+      ],
+      "ch_query": [
+        "口述判词"
+      ],
+      "en_query": [
+        "oral judgment",
+        "oral judgment"
+      ]
+    },
+    "raw_row": {
+      "tw": "口述判詞",
+      "ch": "口述判词",
+      "en": "oral judgment"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "律師失職",
+      "ch": "律师失职",
+      "en": "incompetence of counsel"
+    },
+    "query_variants": {
+      "tw_query": [
+        "律師失職"
+      ],
+      "ch_query": [
+        "律师失职"
+      ],
+      "en_query": [
+        "incompetence of counsel",
+        "incompetence of counsel"
+      ]
+    },
+    "raw_row": {
+      "tw": "律師失職",
+      "ch": "律师失职",
+      "en": "incompetence of counsel"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "審前覆核",
+      "ch": "审前复核",
+      "en": "pre-trial review"
+    },
+    "query_variants": {
+      "tw_query": [
+        "審前覆核"
+      ],
+      "ch_query": [
+        "审前复核"
+      ],
+      "en_query": [
+        "pre-trial review",
+        "pre-trial review"
+      ]
+    },
+    "raw_row": {
+      "tw": "審前覆核",
+      "ch": "审前复核",
+      "en": "pre-trial review"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "否定的聲言",
+      "ch": "否定的声言",
+      "en": "negative averments"
+    },
+    "query_variants": {
+      "tw_query": [
+        "否定的聲言",
+        "否定的聲"
+      ],
+      "ch_query": [
+        "否定的声言",
+        "否定的声"
+      ],
+      "en_query": [
+        "negative averments",
+        "negative averments",
+        "negative averment"
+      ]
+    },
+    "raw_row": {
+      "tw": "否定的聲言",
+      "ch": "否定的声言",
+      "en": "negative averments"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "基本的判刑基準",
+      "ch": "基本的判刑基准",
+      "en": "basic tariff in sentencing"
+    },
+    "query_variants": {
+      "tw_query": [
+        "基本的判刑基準",
+        "基本的判刑"
+      ],
+      "ch_query": [
+        "基本的判刑基准",
+        "基本的判刑"
+      ],
+      "en_query": [
+        "basic tariff in sentencing",
+        "basic tariff in sentencing"
+      ]
+    },
+    "raw_row": {
+      "tw": "基本的判刑基準",
+      "ch": "基本的判刑基准",
+      "en": "basic tariff in sentencing"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "共同犯罪",
+      "ch": "共同犯罪",
+      "en": "joint enterprise"
+    },
+    "query_variants": {
+      "tw_query": [
+        "共同犯罪"
+      ],
+      "ch_query": [
+        "共同犯罪"
+      ],
+      "en_query": [
+        "joint enterprise",
+        "joint enterprise"
+      ]
+    },
+    "raw_row": {
+      "tw": "共同犯罪",
+      "ch": "共同犯罪",
+      "en": "joint enterprise"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "缺乏理據",
+      "ch": "缺乏理据",
+      "en": "without merit"
+    },
+    "query_variants": {
+      "tw_query": [
+        "缺乏理據"
+      ],
+      "ch_query": [
+        "缺乏理据"
+      ],
+      "en_query": [
+        "without merit",
+        "without merit"
+      ]
+    },
+    "raw_row": {
+      "tw": "缺乏理據",
+      "ch": "缺乏理据",
+      "en": "without merit"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "將……的判刑與……的量刑基準掛鈎",
+      "ch": "将……的判刑与……的量刑基准挂钩",
+      "en": "sentence for ... be pegged to tariffs for ..."
+    },
+    "query_variants": {
+      "tw_query": [
+        "將……的判刑與……的量刑基準掛鈎",
+        "將……的判刑與……的量刑基準"
+      ],
+      "ch_query": [
+        "将……的判刑与……的量刑基准挂钩",
+        "将……的判刑与……的量刑基准"
+      ],
+      "en_query": [
+        "sentence for ... be pegged to tariffs for ...",
+        "sentence for ... be pegged to tariffs for ..."
+      ]
+    },
+    "raw_row": {
+      "tw": "將……的判刑與……的量刑基準掛鈎",
+      "ch": "将……的判刑与……的量刑基准挂钩",
+      "en": "sentence for ... be pegged to tariffs for ..."
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "串謀妨礙司法公正",
+      "ch": "串谋妨碍司法公正",
+      "en": "conspiracy to pervert the course of justice"
+    },
+    "query_variants": {
+      "tw_query": [
+        "串謀妨礙司法公正",
+        "串謀妨礙司法"
+      ],
+      "ch_query": [
+        "串谋妨碍司法公正",
+        "串谋妨碍司法"
+      ],
+      "en_query": [
+        "conspiracy to pervert the course of justice",
+        "conspiracy to pervert the course of justice"
+      ]
+    },
+    "raw_row": {
+      "tw": "串謀妨礙司法公正",
+      "ch": "串谋妨碍司法公正",
+      "en": "conspiracy to pervert the course of justice"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "判刑範圍",
+      "ch": "判刑范围",
+      "en": "sentencing range"
+    },
+    "query_variants": {
+      "tw_query": [
+        "判刑範圍"
+      ],
+      "ch_query": [
+        "判刑范围"
+      ],
+      "en_query": [
+        "sentencing range",
+        "sentencing range"
+      ]
+    },
+    "raw_row": {
+      "tw": "判刑範圍",
+      "ch": "判刑范围",
+      "en": "sentencing range"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "固有的不可能性",
+      "ch": "固有的不可能性",
+      "en": "inherent improbability"
+    },
+    "query_variants": {
+      "tw_query": [
+        "固有的不可能性",
+        "固有的不可"
+      ],
+      "ch_query": [
+        "固有的不可能性",
+        "固有的不可"
+      ],
+      "en_query": [
+        "inherent improbability",
+        "inherent improbability"
+      ]
+    },
+    "raw_row": {
+      "tw": "固有的不可能性",
+      "ch": "固有的不可能性",
+      "en": "inherent improbability"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "有犯罪或不誠實意圖",
+      "ch": "有犯罪或不诚实意图",
+      "en": "criminal or dishonest intent"
+    },
+    "query_variants": {
+      "tw_query": [
+        "有犯罪或不誠實意圖",
+        "有犯罪或不誠實"
+      ],
+      "ch_query": [
+        "有犯罪或不诚实意图",
+        "有犯罪或不诚实"
+      ],
+      "en_query": [
+        "criminal or dishonest intent",
+        "criminal or dishonest intent"
+      ]
+    },
+    "raw_row": {
+      "tw": "有犯罪或不誠實意圖",
+      "ch": "有犯罪或不诚实意图",
+      "en": "criminal or dishonest intent"
+    }
+  },
+  {
+    "standard_terms": {
+      "tw": "列隊認人手續",
+      "ch": "列队认人手续",
+      "en": "identification parades"
+    },
+    "query_variants": {
+      "tw_query": [
+        "列隊認人手續",
+        "列隊認人"
+      ],
+      "ch_query": [
+        "列队认人手续",
+        "列队认人"
+      ],
+      "en_query": [
+        "identification parades",
+        "identification parades",
+        "identification parade"
+      ]
+    },
+    "raw_row": {
+      "tw": "列隊認人手續",
+      "ch": "列队认人手续",
+      "en": "identification parades"
+    }
+  }
+]
